@@ -105,24 +105,25 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:031198_0000_0FEB507A4CE6E310"/>
-            <pb facs="tcp:031198_0001_0FEB4F3D9E454480" rendition="simple:additions"/>
+            <pb facs="unknown:031198_0000_0FEB507A4CE6E310"/>
+            <pb facs="unknown:031198_0001_0FEB4F3D9E454480"
+                rendition="simple:additions"/>
             <p>D'ARCY. A NOVEL.</p>
             <p>BY CHARLOTTE SMITH.</p>
             <p>DEDICATED (BY PERMISSION) TO HIS ROYAL HIGHNESS THE DUKE OF YORK.</p>
             <p>PHILADELPHIA: PRINTED BY J. CAREY, 83, N. SECOND-STREET. 1796.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:031198_0002_0FEB4F3F445B0938"/>
+            <pb facs="unknown:031198_0002_0FEB4F3F445B0938"/>
             <head>TO HIS ROYAL HIGHNESS FREDERICK, DUKE OF YORK.</head>
             <opener>
                <salute>SIR,</salute>
             </opener>
             <p>PERMIT me to ſhelter under the ſanction of your name, a work I am fully ſenſible is poſſeſſed of no merit, and can never claim notice, but from the advantage of being honoured by the patronage of your Royal Highneſs.</p>
             <p>
-               <pb n="iv" facs="tcp:031198_0003_0FEB4F452D735488"/>Two years have elapſed ſince Sir Charles Aſgill ſolicited and ob<g ref="char:EOLhyphen"/>tained for me the pleaſing gratifi<g ref="char:EOLhyphen"/>cation of dedicating it to you.— Unavoidable occurrences have pre<g ref="char:EOLhyphen"/>vented its publication till the pre<g ref="char:EOLhyphen"/>ſent period; but my having been thus diſtinguiſhed, I flatter myſelf, cannot have eſcaped your recollec<g ref="char:EOLhyphen"/>tion; yet, though your Royal Highneſs may forget many of the benevolent acts of condeſcenſion which you perform, they muſt ever remain indelible on the hearts of thoſe on whom they are conferred.</p>
+               <pb n="iv" facs="unknown:031198_0003_0FEB4F452D735488"/>Two years have elapſed ſince Sir Charles Aſgill ſolicited and ob<g ref="char:EOLhyphen"/>tained for me the pleaſing gratifi<g ref="char:EOLhyphen"/>cation of dedicating it to you.— Unavoidable occurrences have pre<g ref="char:EOLhyphen"/>vented its publication till the pre<g ref="char:EOLhyphen"/>ſent period; but my having been thus diſtinguiſhed, I flatter myſelf, cannot have eſcaped your recollec<g ref="char:EOLhyphen"/>tion; yet, though your Royal Highneſs may forget many of the benevolent acts of condeſcenſion which you perform, they muſt ever remain indelible on the hearts of thoſe on whom they are conferred.</p>
             <p>I will not attempt any defence of this little volume, too trifling to deſerve an apology, and too hum<g ref="char:EOLhyphen"/>ble to excite cenſure. Whatever may be its fate, I ſhall ſubmit with<g ref="char:EOLhyphen"/>out
-<pb n="v" facs="tcp:031198_0004_0FEB4F4833088B70"/>
+<pb n="v" facs="unknown:031198_0004_0FEB4F4833088B70"/>
 one murmur. It has already procured me the ineſtimable ad<g ref="char:EOLhyphen"/>vantage of thus publickly avowing the profound gratitude and reſpect with which I have the honour to be,</p>
             <closer>
                <signed>YOUR ROYAL HIGHNESS'S MOST OBLIGED, AND DEVOTED SERVANT, <hi>C. SMITH.</hi>
@@ -132,7 +133,7 @@ one murmur. It has already procured me the ineſtimable ad<g ref="char:EOLhyphen
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:031198_0005_0FEB4F49F0481B80"/>
+            <pb facs="unknown:031198_0005_0FEB4F49F0481B80"/>
             <head>D'ARCY. A NOVEL.</head>
             <div type="letter">
                <head>To Mademoiſelle D'Aubigny, at St. Omer's.</head>
@@ -146,17 +147,17 @@ one murmur. It has already procured me the ineſtimable ad<g ref="char:EOLhyphen
                   </gap> from every dan<g ref="char:EOLhyphen"/>ger. <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> proſpect is dread<g ref="char:EOLhyphen"/>ful,
-<pb n="8" facs="tcp:031198_0006_0FEB4F4FE3260430"/>
+<pb n="8" facs="unknown:031198_0006_0FEB4F4FE3260430"/>
 and a retroſpect ſtill worſe. You are the only friend in whom I dare confide, and to eaſe the fulneſs of a woe-fraught heart, I muſt inform you, that Stamford has proved a villain. You are thunderſtruck! While I fancy myſelf as juſt awak<g ref="char:EOLhyphen"/>ened from a dream of horror.</p>
                <p>You knew not that my parents were people of large fortune. In ſhort it was a ſecret which I arrived not at myſelf till after you had left our convent. But it is now abſo<g ref="char:EOLhyphen"/>lutely neceſſary you ſhould be ac<g ref="char:EOLhyphen"/>quainted with circumſtances which contributed to render me totally neglected by and unknown to my neareſt relatives.—</p>
                <p>My mother being of a gay diſpo<g ref="char:EOLhyphen"/>ſition could not be perſuaded that happineſs was moſtly found in do<g ref="char:EOLhyphen"/>meſtic life: but from adhering too ſtrictly to an ill formed judgment, plunged into a vortex of pleaſure and loſt ſight of it for ever. My father, young and fond of public amuſements himſelf, gratified her
-<pb n="9" facs="tcp:031198_0007_0FEB4F534E481508"/>
+<pb n="9" facs="unknown:031198_0007_0FEB4F534E481508"/>
 every wiſh, till he ſuſpected ſhe had formed an attachment of the tendereſt nature for an officer in the navy. He ſpoke very harſhly to her on the ſubject; but being innocent of the crime alluded to, my mother thought herſelf ill treat<g ref="char:EOLhyphen"/>ed. Conſequently diſregarded his reproaches, ſet his threats at defi<g ref="char:EOLhyphen"/>ance; and merely for the ſake of bravado kept up her acquaintance with the captain. A conduct ſo de<g ref="char:EOLhyphen"/>rogatory from prudence furniſhed converſation for the town. My fa<g ref="char:EOLhyphen"/>ther ſoon quitted England; his eſ<g ref="char:EOLhyphen"/>tates were mortgaged; and my mo<g ref="char:EOLhyphen"/>ther left with child of me, and to<g ref="char:EOLhyphen"/>tally deſtitute. Her relations had imbibed a ſtrong notion of her guilt, and poſitively refuſed ſeeing her. Her ſuppoſed diſhonor had not gone farther than appearance. They had treated her with indignity, and her ſpirit was too high to permit a vin<g ref="char:EOLhyphen"/>dication of her conduct to thoſe who were ſo eaſily prejudiced a<g ref="char:EOLhyphen"/>gainſt her; and though reduced to
-<pb n="10" facs="tcp:031198_0008_0FEB4F54E7CF0270"/>
+<pb n="10" facs="unknown:031198_0008_0FEB4F54E7CF0270"/>
 the utmoſt diſtreſs, would not ſtoop to ſolicit aſſiſtance from any of them. Fortunately a friend in the country, who had heard of her ſi<g ref="char:EOLhyphen"/>tuation, died; and from motives of compaſſion left her ſixty pounds a year. With this poor pittance ſhe retired to Boulogne, and a ſhort time after was delivered of me.</p>
                <p>I need not animadvert on the time you and I paſſed at the con<g ref="char:EOLhyphen"/>vent: but date the riſe of miſ<g ref="char:EOLhyphen"/>fortune from the time my mother met Mr. Stamford.</p>
                <p>He had been acquainted with my father; and when ſhe was ſeized with that dreadful diſeaſe which terminated life, ſhe claimed his protection for her orphan child (who was the only daughter of his friend) and conjured him to do the utmoſt in his power in ſtriving to find whether my father was yet alive; and if he were to convey me to him even if in the Eaſt In<g ref="char:EOLhyphen"/>dies, having been informed he went there on leaving England.
-<pb n="11" facs="tcp:031198_0009_0FEB4F586BEDA6B8"/>
+<pb n="11" facs="unknown:031198_0009_0FEB4F586BEDA6B8"/>
 He ſolemnly promiſed to comply with her every requeſt. And as villanouſly determined to break through all bounds that led to my ruin.</p>
                <p>At preſent I cannot add more, my eyes are dimmed with tears; and what I have already written ſeems to dance before them: however I will not conclude till I have ſub<g ref="char:EOLhyphen"/>ſcribed myſelf,</p>
                <closer>
@@ -171,50 +172,50 @@ He ſolemnly promiſed to comply with her every requeſt. And as villanouſly de
                <head>To Mademoiſelle D'Aubigny, at St. Omer's.</head>
                <p>You are impatient to know why my name is changed, and ſtill more the particulars of Stamford's perfidy.</p>
                <p>
-                  <pb n="12" facs="tcp:031198_0010_0FEB4F5E857BD2E8"/>A month had ſcarce elapſed after my mother's funeral, when I expreſſed my wiſh of going to St. Omer's. Mr. Stamford objected to it; ſaid I was ſcarce fifteen and be<g ref="char:EOLhyphen"/>ing a handſome girl, deſtitute of fortune, and apparently of friends, would be ſubjected to a number of inſulting offers from men of rank, merely from the want of a pro<g ref="char:EOLhyphen"/>tector.</p>
+                  <pb n="12" facs="unknown:031198_0010_0FEB4F5E857BD2E8"/>A month had ſcarce elapſed after my mother's funeral, when I expreſſed my wiſh of going to St. Omer's. Mr. Stamford objected to it; ſaid I was ſcarce fifteen and be<g ref="char:EOLhyphen"/>ing a handſome girl, deſtitute of fortune, and apparently of friends, would be ſubjected to a number of inſulting offers from men of rank, merely from the want of a pro<g ref="char:EOLhyphen"/>tector.</p>
                <p>Convinced of his having my intereſt at heart, I felt ſatisfied with the refuſal, though mortified in the idea of not ſeeing my dear Ma<g ref="char:EOLhyphen"/>rianne ſo ſoon as I had hoped for. However it was neceſſary that my imagination ſhould be kept on the wing of expectation; conſequently a fortnight after he informed me that a letter from England had given him intelligence of my fa<g ref="char:EOLhyphen"/>ther's return from the Indies; and in a jocular tone, aſked 'if I ſhould not be afraid of croſſing the ocean?' 'Can you put the queſtion to me, my dear ſir?' I replied with quick<g ref="char:EOLhyphen"/>neſs,
-<pb n="13" facs="tcp:031198_0011_0FEB4F6021ACD598"/>
+<pb n="13" facs="unknown:031198_0011_0FEB4F6021ACD598"/>
 'Shall I not go to claim the bleſſing of an only parent, and vin<g ref="char:EOLhyphen"/>dicate the conduct of an injured mother?' Tears burſt from my eyes, which the hypocrite wiped away, while he bid me prepare for our voyage on the following morn<g ref="char:EOLhyphen"/>ing.</p>
                <p>We embarked on board the packet, and at ſix o'clock the ſame evening landed at Dover.</p>
                <p>The ſenſations I experienced from imagining myſelf in the ſame nation with my father, are indeſcri<g ref="char:EOLhyphen"/>bable; and I had actually conned over every expreſſion of tenderneſs which I meant to make uſe of, to ſoften the ſeverity of his anger to<g ref="char:EOLhyphen"/>wards the memory of my poor de<g ref="char:EOLhyphen"/>pared mother; but the pleaſing il<g ref="char:EOLhyphen"/>luſion vaniſhed on Mr. Stamford's propoſing our ſtaying that night at the inn Unaccuſtomed to follow the dictates of my own reaſon, when oppoſed by that of another, I acquieſced in his deſire, and re<g ref="char:EOLhyphen"/>tired early to reſt.</p>
                <p>
-                  <pb n="14" facs="tcp:031198_0012_0FEB4F61CEFB4BF0"/>About one o'clock, I was awaken<g ref="char:EOLhyphen"/>ed by ſome one opening the door of my chamber, and inſtantly de<g ref="char:EOLhyphen"/>manded who was there? No an<g ref="char:EOLhyphen"/>ſwer was returned.</p>
+                  <pb n="14" facs="unknown:031198_0012_0FEB4F61CEFB4BF0"/>About one o'clock, I was awaken<g ref="char:EOLhyphen"/>ed by ſome one opening the door of my chamber, and inſtantly de<g ref="char:EOLhyphen"/>manded who was there? No an<g ref="char:EOLhyphen"/>ſwer was returned.</p>
                <p>I liſtened, but every thing was perfectly quiet. Recollecting that Mr. Stamford ſlept in the adjoining apartment, and concluding no one would dare offer to moleſt me while under his protection (having before our landing taken the pre<g ref="char:EOLhyphen"/>caution to deſire I would call him father till my own was found), I quieted my fears, and was going to ſleep once more; on a ſudden, the bed curtains were drawn aſide, though it was ſoftly as poſſible. 'Gracious God,' exclaimed I, what can be the meaning of this? Where is Mr. Stamford?' continued I, ſtart<g ref="char:EOLhyphen"/>ing up at the ſame time. 'Be not alarmed, my dear D'Arcy, (ſaid a voice which I knew to be his) I mean not to hurt you.' However I found he was upon the point of getting into bed. Oh! Marianne, I
-<pb n="15" facs="tcp:031198_0013_0FEB4F64E98A6E10"/>
+<pb n="15" facs="unknown:031198_0013_0FEB4F64E98A6E10"/>
 ſhudder even now, though ſecured from the danger. I jumped out on the other ſide, ſcreaming moſt vio<g ref="char:EOLhyphen"/>lently; he caught my hand and begged I would be pacified; but it was too late, my cries had awak<g ref="char:EOLhyphen"/>ened the people who ſlept in the inn, and they had aſſembled at the door and were demanding ad<g ref="char:EOLhyphen"/>mittance. Fear gave me ſtrength, I diſengaged myſelf from his hold and ran to open the door. The firſt perſon who preſented himſelf to my view was Mr. Oſborn. Re<g ref="char:EOLhyphen"/>gardleſs of every thing, but my eſ<g ref="char:EOLhyphen"/>cape from Stamford, I threw my arms around him and implored pro<g ref="char:EOLhyphen"/>tection for the ſake of heaven, but fainted the moment that the ſen<g ref="char:EOLhyphen"/>tence had eſcaped my lips. Stam<g ref="char:EOLhyphen"/>ford took this opportunity of ſaying I was his wife, but had eloped and gone with a vagrant fellow to France, whither he had followed and was bringing me back; but that determined not to ſtay with him, I had behaved in that manner,
-<pb n="16" facs="tcp:031198_0014_0FEB4F6B67EF2118"/>
+<pb n="16" facs="unknown:031198_0014_0FEB4F6B67EF2118"/>
 in hopes ſome one elſe would fa<g ref="char:EOLhyphen"/>vour my eſcape a ſecond time. Every perſon pitied the unfortu<g ref="char:EOLhyphen"/>nate huſband, while I got abuſed as an infamous creature, till the chamber-maid (an innocent girl, who had only been there a few days) ſaid, 'Laws, ſir, I thought as how the lady called you father laſt night?' Staggered by the dread of being diſcovered, he heſitated and was beginning a plauſible ſtory about my deſiring he would ſuffer it. But Mr. Oſborn's humanity was not to be trifled with, he in<g ref="char:EOLhyphen"/>ſiſted that every ſyllable the other advanced was falſe, and declared he would not relinquiſh my cauſe, nor quit the room till I returned to aſ<g ref="char:EOLhyphen"/>ſure him of the truth (for they had taken me into another apartment on my fainting).</p>
                <p>Stamford putting on a ſtern air, aſked,
 <q>If he meant to doubt his word? Said that room was his, and no one ſhould ſtay in it longer than he choſe.</q>
 This behaviour gave
-<pb n="17" facs="tcp:031198_0015_0FEB4F6D08AE1B60"/>
+<pb n="17" facs="unknown:031198_0015_0FEB4F6D08AE1B60"/>
 every one preſent a ſuſpicion, from what the girl had ſaid, that I was ill-treated; and after my recovery, the landlady having aſſiſted me in putting my clothes on, they all en<g ref="char:EOLhyphen"/>tered the apartment, eager to hear in what manner I could juſtify my<g ref="char:EOLhyphen"/>ſelf.</p>
                <p>You know my mother took infi<g ref="char:EOLhyphen"/>nite pains, in ſtriving to perfect me in the Engliſh tongue, conſequent<g ref="char:EOLhyphen"/>ly I found no difficulty in making them underſtand me. I related that part of my ſtory, which concern<g ref="char:EOLhyphen"/>ed Stamford, in an artleſs ſtrain, while he with dreadful imprecati<g ref="char:EOLhyphen"/>ons, contradicted all I had advanced. Provoked to the laſt degree, I told him,
 <q>that let what I had ſaid be true or falſe, I was determined not to continue any longer under his protection.</q>
 'Stop, madam,' ſaid the wretch,
 <q>you are my ward at leaſt, and whoever dares to pro<g ref="char:EOLhyphen"/>tect you, ſhall find the laws of this country will afford me ample re<g ref="char:EOLhyphen"/>venge.</q>
                   <q>You need not be inform<g ref="char:EOLhyphen"/>ed,</q>
-                  <pb n="18" facs="tcp:031198_0016_0FEB4F71A9DE0480"/>
+                  <pb n="18" facs="unknown:031198_0016_0FEB4F71A9DE0480"/>
 returned Mr. Oſborn,
 <q>that the laws of this country will not permit an unprotected female to be injured by the brutal machi<g ref="char:EOLhyphen"/>nations of a villanous guardian; and to convince you I am as well quainted with the laws of Eng<g ref="char:EOLhyphen"/>land as yourſelf, if, the lady will truſt to my honour, in commiting herſelf to my care till we arrive in town, I will place her under the immediate protection of my mother and ſiſter, and bid defi<g ref="char:EOLhyphen"/>ance to all your efforts in an at<g ref="char:EOLhyphen"/>tempt to regain her. My name is Oſborn, you are at liberty to uſe your pleaſure in regard to law. Favour me with your hand, madam,</q>
 turning to me,
 <q>and al<g ref="char:EOLhyphen"/>low me to lead you out of this room; my carriage will not be long; getting ready, and the mo<g ref="char:EOLhyphen"/>ment it is we will ſet out.</q>
 So ſay<g ref="char:EOLhyphen"/>ing he led me out of the room in triumph.</p>
                <p>Stamford raved, and would cer<g ref="char:EOLhyphen"/>tainly have ſtruck Mr. Oſborn, had
-<pb n="19" facs="tcp:031198_0017_0FEB4F73471A2550"/>
+<pb n="19" facs="unknown:031198_0017_0FEB4F73471A2550"/>
 not a gentleman who was going to France the next morning prevented the blow; in ſhort, he was obliged to make a priſoner of him till we had left the houſe.</p>
                <p>I did not at the time, conſider the impropriety of conſenting to ac<g ref="char:EOLhyphen"/>company an elegant young man, alone in a poſt chaiſe; reflecting not a moment that the judgment of the world is decided by appear<g ref="char:EOLhyphen"/>ances, gladly accepted the offer al<g ref="char:EOLhyphen"/>moſt before it was made. I muſt reſign the pen this moment, hear<g ref="char:EOLhyphen"/>ing Miſs Oſborn's foot on the ſtairs, conſequently cannot conclude this till to-morrow.</p>
                <p>* * * * * * *</p>
                <p>Once more I am ſeated at my writing-deſk, to ſatisfy my Mari<g ref="char:EOLhyphen"/>anne's apprehenſions for my ſafety. In the courſe of our journey my de<g ref="char:EOLhyphen"/>liverer ſaid, 'He ſhould not have been at Dover, but in the expectati<g ref="char:EOLhyphen"/>on of meeting the Chevalier Chat<g ref="char:EOLhyphen"/>telherhault and his ſiſter, the packet was arrived in which they were to have came, conſequently he con<g ref="char:EOLhyphen"/>cluded
-<pb n="20" facs="tcp:031198_0018_0FEB4F7B300935F0"/>
+<pb n="20" facs="unknown:031198_0018_0FEB4F7B300935F0"/>
 himſelf at liberty to return to town.'</p>
                <p>In a very delicate manner, he hinted, that my ſituation was both aukward and diſtreſſing, and really wiſhed I could be prevailed on to aſſume the name of Chattelherhault, till my father could be applied to. I objected to it, by ſaying, his friends muſt certainly arrive at a knowledge of the impoſition, and for ever after I ſhould be regarded by them in a degrading light. Mr. Oſborn begged my pardon for hav<g ref="char:EOLhyphen"/>ing propoſed what was diſagreeable to me, but ſaid, 'he only wiſhed me to aſſume that name on my intro<g ref="char:EOLhyphen"/>duction to them, till he found an op<g ref="char:EOLhyphen"/>portunity of making them acquiant<g ref="char:EOLhyphen"/>ed with my ſtory, as his father, though a good hearted man, had his peculiarities; however, as I was apparently averſe to the propoſal, he would relinquiſh the thought.'</p>
                <p>A thouſand painful ideas ruſhed on my mind at the moment he was ſpeaking; Sir John Oſborn might
-<pb n="21" facs="tcp:031198_0019_0FEB4F7CED590A10"/>
+<pb n="21" facs="unknown:031198_0019_0FEB4F7CED590A10"/>
 command me to leave his houſe that inſtant; I was a friendleſs, an unprotected ſtranger in the nation. Could I but gain an aſylum for a week, my father might be found; I ſhould be acknowledged as his daughter, and the fraud paſſed on Sir John's family would be looked over, when they underſtood I was ſole heireſs to a man of large for<g ref="char:EOLhyphen"/>tune.</p>
                <p>This thought determined me. I told him he was at liberty to act as he thought proper. Now imagine me in the character of a French lady of faſhion, arrived in England, to be introduced at the Britiſh court. Oh! Marianne, this attempt at vi<g ref="char:EOLhyphen"/>vacity, however it might appear like myſelf when at Boulogne, but ill ſuits me at preſent.</p>
                <p>You, no doubt, think me highly blameable, and conclude I cannot eſcape detection; but to ſatisfy your doubts I muſt inform you, Mr. Osborn has written to the Che<g ref="char:EOLhyphen"/>valier, who promiſes to remain in
-<pb n="22" facs="tcp:031198_0020_0FEB4F8001A07548"/>
+<pb n="22" facs="unknown:031198_0020_0FEB4F8001A07548"/>
 France, and keep his ſiſter ſtill at their chateau, till he hears further from him.</p>
                <p>I muſt not omit telling you, when we arrived in St. James's Square, Mr. Osborn told Sir John, that the Chevalier arrived with me in the packet, but an affair of honour de<g ref="char:EOLhyphen"/>manding his return to France, he had entruſted me to his care.</p>
                <p>It is near three weeks ſince I have been here, but the anxiety I ſuffered at Dover has confined me to my room ever ſince; I even dread the idea of finding my ſelf in a good ſtate of health, merely from the fear of being detected. However let fate do with me as it will,</p>
@@ -224,7 +225,7 @@ France, and keep his ſiſter ſtill at their chateau, till he hears further fro
                </closer>
             </div>
             <div type="letter">
-               <pb n="23" facs="tcp:031198_0021_0FEB4F81D59709E0"/>
+               <pb n="23" facs="unknown:031198_0021_0FEB4F81D59709E0"/>
                <head>To Mademoiſelle D'Aubigny.</head>
                <opener>
                   <dateline>
@@ -233,9 +234,9 @@ France, and keep his ſiſter ſtill at their chateau, till he hears further fro
                </opener>
                <p>WHAT can be the reaſon for my not having heard from you? Surely my Marianne can never mean to deſert me becauſe I am in diſtreſs! I will not entertain an opinion ſo much to her prejudice; but conclude that her letters have by ſome miſtake been kept back. Or it is poſſible mine have not yet reached her; yet in the hope that you may have received them before this arrives, I ſhall give you a fur<g ref="char:EOLhyphen"/>ther proof of Stamford's perfidy.</p>
                <p>Mr. Oſborn promiſed to make enquiry after my father, and if he was in England find him. To my extreme mortification he has learn<g ref="char:EOLhyphen"/>ed, that no ſuch perſon has ever been heard of. And I am now convinced the wretch's deſire of bringing me among ſtrangers, was only to gain his ends in a more ef<g ref="char:EOLhyphen"/>fectual
-<pb n="24" facs="tcp:031198_0022_0FEB4F8658D5A2B0"/>
+<pb n="24" facs="unknown:031198_0022_0FEB4F8658D5A2B0"/>
 manner than he could poſſi<g ref="char:EOLhyphen"/>bly have done at Boulogne.—Hea<g ref="char:EOLhyphen"/>ven be praiſed his ſcheme has been fruſtrated—yet here I am in a ſtrange country, dreading every moment the ſhame of being detected as an impoſtor, which muſt inevita<g ref="char:EOLhyphen"/>bly happen if this family perſiſt in introducing me to their acquaint<g ref="char:EOLhyphen"/>ance. I have repeatedly told Mr. Oſborn I will return to France, and fear not the want of an aſylum while it is in your power to afford me one. He never ſuffers me to con<g ref="char:EOLhyphen"/>clude a propoſition of this kind; for throwing himſelf on his knees before me, a kind of anxiety takes poſſeſſion of his looks. He ſpeaks not, 'tis true—but ſo eloquent does that poſition plead for him, that I cannot proceed with what was in my thoughts to have ſaid. What can be the meaning of it? I never felt ſuch a ſtrange palpitation at my heart when in company with any other man. Yeſterday, for the firſt time, we had a converſation on the
-<pb n="25" facs="tcp:031198_0023_0FEB4F896BB86200"/>
+<pb n="25" facs="unknown:031198_0023_0FEB4F896BB86200"/>
 ſubject; he ſaid ſomething muſt be contrived to make us both happy. —What had his happineſs to do with mine? I wiſhed to put that queſtion to him, but had not cou<g ref="char:EOLhyphen"/>rage.—When I am alone I deter<g ref="char:EOLhyphen"/>mine to come to you at all events; but while Mr. Osborn was rea<g ref="char:EOLhyphen"/>ſoning with me, I wondered how I could once ſuffer a thought of leaving him to enter my head; eſpecially ſince he urges the neceſ<g ref="char:EOLhyphen"/>ſity for my remaining in England.</p>
                <p>Do adviſe me what to do; by that I will implicitly abide, even though it ſhould prove to quit Mr. Osborn, his amiable mother and ſprightly ſiſter, for ever.—I muſt now bid my Marianne adieu, by ſubſcribing myſelf,</p>
                <closer>
@@ -244,7 +245,7 @@ manner than he could poſſi<g ref="char:EOLhyphen"/>bly have done at Boulogne.�
                </closer>
             </div>
             <div type="letter">
-               <pb n="26" facs="tcp:031198_0024_0FEB4F8B2DF215C0"/>
+               <pb n="26" facs="unknown:031198_0024_0FEB4F8B2DF215C0"/>
                <head>To the Honourable Miſs Townſhend.</head>
                <opener>
                   <dateline>
@@ -253,29 +254,29 @@ manner than he could poſſi<g ref="char:EOLhyphen"/>bly have done at Boulogne.�
                </opener>
                <p>POSITIVELY, Sophia, this is the laſt ſummons I will ſend for your return to town. I have got the moſt charming little French girl that ima<g ref="char:EOLhyphen"/>gination can ſuggeſt, for a compa<g ref="char:EOLhyphen"/>nion; and if you make not an end of your viſit ſhortly, I muſt abſo<g ref="char:EOLhyphen"/>lutely elect her my favourite and chief confidant in your ſtead.</p>
                <p>Seriouſly though, the Chevalier Chattelherhault's ſiſter is with us. She is ſcarce fifteen, my brother ſays; but it is aſtoniſhing to hear how ſenſibly ſhe converſes, and yet in ſuch an artleſs ſtrain that it is impoſſible to refrain from loving her: in ſhort, to tell you a ſecret, I believe poor Henry has loſt his heart without intending it. Though I'll anſwer for neither father or mother making any objection to
-<pb n="27" facs="tcp:031198_0025_0FEB4F90274DDFD8"/>
+<pb n="27" facs="unknown:031198_0025_0FEB4F90274DDFD8"/>
 his marrying the amiable little crea<g ref="char:EOLhyphen"/>ture.—She has been very ill ever ſince ſhe came to England, and the good folke here conclude it is occaſioned by the fatigue of her journey: but you know I am a cloſe obſerver of human nature, and will be hanged if love does not prey more upon her mind than fatigue has been able to do on her body.— Being of a lively diſpoſition (moſt French people are, you know) ſhe ſometimes ſtrives to exert her ſpi<g ref="char:EOLhyphen"/>rits, and then is really captivating; but they ſoon flag. She ſighs, wipes her eyes, and turns her head aſide, to prevent her emotion becoming viſible. Do not theſe ſymptoms favour ſtrongly of a hopeleſs paſ<g ref="char:EOLhyphen"/>ſion? Ay, ay, this is ever the caſe with you people of ſentiment; ſee a man you approve, and ſouſe, you're over head and ears in love; when, nothing will ſatisfy you till you are happy in your choice.</p>
                <p>Obſerve the contraſt between a
-<pb n="28" facs="tcp:031198_0026_0FEB4F91CB9CDAC8"/>
+<pb n="28" facs="unknown:031198_0026_0FEB4F91CB9CDAC8"/>
 ſentimental body and that of a girl of ſpirit like myſelf. Place me in company with the man I love; but let a few more dear charming crea<g ref="char:EOLhyphen"/>tures, whom I care not a ruſh for, be of the party, I ogle one, flirt with another, and make downright love to a third. Though by the bye he muſt be a conceited fool, that I have the moſt ſovereign contempt for, and if it happens to be overheard by the man I really love, Oh! the exquiſite pleaſure it affords! Now attribute this to want of ſenſibility if you dare.</p>
                <p>To make an honeſt confeſſion to you, Sophia, my behaviour does not proceed from a total want of ſenſi<g ref="char:EOLhyphen"/>bility; for believe me I have ex<g ref="char:EOLhyphen"/>perienced many and many a ſevere pang, while I have affected a gaity which my heart diſclaimed. You will ſay a perſon of my volatile diſ<g ref="char:EOLhyphen"/>poſition cannot be ſo far caught, and that my affections may be diſ<g ref="char:EOLhyphen"/>entangled with as much eaſe as I
-<pb n="29" facs="tcp:031198_0027_0FEB4F969D3923E0"/>
+<pb n="29" facs="unknown:031198_0027_0FEB4F969D3923E0"/>
 flutter with every fop.—You are deceived: I flirt with every man whom chance throws in my way, 'tis true; yet that more than one has ever found a way to my heart, I diſown. However this is a digreſ<g ref="char:EOLhyphen"/>ſion from the deſcription of my little French friend.</p>
                <p>Yeſterday we prevailed on her to appear in the drawing room, and I then diſcovered that ſhe poſſeſſes a certain timidity which few wo<g ref="char:EOLhyphen"/>men of her nation are troubled with. I attribute it to her not hav<g ref="char:EOLhyphen"/>ing been accuſtomed to the com<g ref="char:EOLhyphen"/>pany of a variety of ſtrangers before. She curtſied aukwardly, bluſhed when ſpoken to, and was evidently too much embarraſſed to give a pro<g ref="char:EOLhyphen"/>per anſwer to the moſt ſimple queſ<g ref="char:EOLhyphen"/>tion that was put to her. In ſhort, Mademoiſelle Chattelherhault ne<g ref="char:EOLhyphen"/>ver appeared to ſuch a diſadvantage in my eye, as when ſhe ought to have even looked to the greateſt advantage. You know Cheſterfield
-<pb n="30" facs="tcp:031198_0028_0FEB4F983AC6C890"/>
+<pb n="30" facs="unknown:031198_0028_0FEB4F983AC6C890"/>
 ſays, "a perſon's behaviour at firſt ſight, will prejudice others either in their favour or againſt them for life."</p>
                <p>I cannot account for her ſtupidity any other way than by the obſer<g ref="char:EOLhyphen"/>vation above, as ſhe ſeemed one of the moſt accompliſhed girls I had ever ſeen. She dances admirably. We once prevailed on her to walk a minuet with Henry, while I play<g ref="char:EOLhyphen"/>ed on the piano forte: ſhe ſings di<g ref="char:EOLhyphen"/>vinely, and plays to a miracle. In<g ref="char:EOLhyphen"/>deed I had ſeveral times ſaid that —"the graces danced round her to join in her train." Trebeck was of the party.—I had totally forgotten you were unacquainted with that original, and being in a humour to delineate, will give you a ſhort ac<g ref="char:EOLhyphen"/>count of his general character.</p>
                <p>In the firſt place, he affects to patroniſe our moſt celebrated per<g ref="char:EOLhyphen"/>formers of the drama, for no other motive than becauſe it is faſhionable. Then he invites every author, if it is
-<pb n="31" facs="tcp:031198_0029_0FEB4F9B4B1B1BF0"/>
+<pb n="31" facs="unknown:031198_0029_0FEB4F9B4B1B1BF0"/>
 only a noveliſt, to intruſt their writ<g ref="char:EOLhyphen"/>ings to his care, and promiſes to diſpoſe of them at a high price; though, if the truth was known, the inſignificant varlet has not in<g ref="char:EOLhyphen"/>tereſt enough with any bookſeller in town to get rid of his own, were he poſſeſſed of wit to write. Did his boaſting ſtop here it might paſs un<g ref="char:EOLhyphen"/>noticed; but he would make you believe, if poſſible, that the three royal brothers were hand and glove with him; and that the dukes of P— and B—, and half a hun<g ref="char:EOLhyphen"/>dred other noblemen, were his moſt intimate acquaintances. At other times, he is promiſing places to a ſcore of people, when it is known by every perſon to whom he is ac<g ref="char:EOLhyphen"/>quainted, that he has been ſoliciting one for himſelf theſe ſix years paſt, and has not been able to obtain it yet. When an election is coming on, he is in the zenith of his glory, and talks as pompouſly in company of himſelf and Mr. — having been up late with their voters the pre<g ref="char:EOLhyphen"/>ceding
-<pb n="32" facs="tcp:031198_0030_0FEB4FA1E1EE0900"/>
+<pb n="32" facs="unknown:031198_0030_0FEB4FA1E1EE0900"/>
 evening, as if he were him<g ref="char:EOLhyphen"/>ſelf a member, rather than a <hi>tool</hi> for <hi>members.</hi> However, the truth is, a certain man of faſhion, well known in the great world, counte<g ref="char:EOLhyphen"/>nances him very much, becauſe he ſtrives to render himſelf conſequen<g ref="char:EOLhyphen"/>tial by going a <hi>voter hunting,</hi> and appearing every day while the poll laſts upon the huſtings. Merely from this mode of proceeding, he has gained admittance into the houſes of a few faſhionable people, and was introduced at ours by Sir George Loveall. So much for his character. Take his perſon and face, aſſiſted by a little rouge, when dreſſed for the drawing-room, and he is pleaſ<g ref="char:EOLhyphen"/>ing, though not irreſiſtible; with an infinite loquacity, and you have the man at once. You have like<g ref="char:EOLhyphen"/>wiſe nearly read all you are likely to receive from me this poſt at leaſt, as my hand is perfectly cramped from holding the pen; as witneſs,</p>
                <closer>
                   <signed>MATILDA OSBORN.</signed>
                </closer>
             </div>
             <div type="letter">
-               <pb n="33" facs="tcp:031198_0031_0FEB4FA389F70298"/>
+               <pb n="33" facs="unknown:031198_0031_0FEB4FA389F70298"/>
                <head>To Mademoiſelle Chattelherhault.</head>
                <opener>
                   <dateline>
@@ -283,14 +284,14 @@ evening, as if he were him<g ref="char:EOLhyphen"/>ſelf a member, rather than a
                   </dateline>
                </opener>
                <p>WELL might you fear, my dear D'Arcy, I meant to deſert you, after having written two letters but received no anſwer: I can juſtify myſelf, by telling you, I have been at Paris, and only returned this morning. Your three letters were given me with others, which I have not yet opened, ſo impatient am I to aſſure you of what I feel for the ſufferings you have endured.— Would to heaven you were with me at this moment. The hypocriſy of that villain prevented you being here, and will, I very much fear, contribute towards your paſsing many an unhappy hour after your leaving England; which, but for him, you never could have known; I mean not from his attempt upon you, becauſe you were reſcued
-<pb n="34" facs="tcp:031198_0032_0FEB4FA805CB8928"/>
+<pb n="34" facs="unknown:031198_0032_0FEB4FA805CB8928"/>
 from the danger, and will be more effectually ſo when ſettled with me. You will ſcarce credit an aſſertion of your being in love with Mr. Oſ<g ref="char:EOLhyphen"/>born; believe me, Beaufoy, it is literally true, and your danger is infinitely greater at preſent, than it was at the time he reſcued you out of the clutches of that old ſa<g ref="char:EOLhyphen"/>vage, Stamford. To prove the re<g ref="char:EOLhyphen"/>ality of what I have advanced, I appeal to your letter, wherein you ſay, "while Mr. Oſborn was rea<g ref="char:EOLhyphen"/>ſoning with me, I wondered how I could once ſuffer a thought of leav<g ref="char:EOLhyphen"/>ing him to enter my head, eſpeci<g ref="char:EOLhyphen"/>ally ſince he urges the neceſſity of my remaining in England." I hope, on the peruſal, it will ſtrike you as forcibly as it does me. You were highly blamable, in ſhort, unjuſti<g ref="char:EOLhyphen"/>fiable, in ſuffering an impoſition ſo very groſs to be put upon the family of Sir John Oſborn.—You think me too ſevere upon you while you are in diſtreſs; I cannot help it, though
-<pb n="35" facs="tcp:031198_0033_0FEB4FAA1BF418F0"/>
+<pb n="35" facs="unknown:031198_0033_0FEB4FAA1BF418F0"/>
 every ſentence which hurts your feelings, wounds my own beyond expreſſion.—My friendſhip could not be real, did I not point out your faults, and endeavour to cor<g ref="char:EOLhyphen"/>rect them. — Aſk yourſelf, what could be Mr Oſborn's motive for bringing me into his father's houſe under a fictitious name? The an<g ref="char:EOLhyphen"/>ſwer occurs, to gain your affections by a ſeeming diſintereſted behavi<g ref="char:EOLhyphen"/>our; then to ſuffer his family to arrive at a knowledge of the fraud, you are thrown under his protec<g ref="char:EOLhyphen"/>tion, and your ruin is ſealed.</p>
                <p>Indeed D'Arcy, I ſhall be wretch<g ref="char:EOLhyphen"/>ed till I have you with me.—Gra<g ref="char:EOLhyphen"/>titude has awakened itſelf into love in your breaſt; and while you re<g ref="char:EOLhyphen"/>main in England I dread the conſe<g ref="char:EOLhyphen"/>quences which are likely to enſue. —Mr. Oſborn ſays "ſomething muſt be contrived to make you both happy." Will he marry you? Or could you poſſibly conceive your<g ref="char:EOLhyphen"/>ſelf his lawful wife, by ſigning your name at the altar Chattelher<g ref="char:EOLhyphen"/>hault,
-<pb n="36" facs="tcp:031198_0034_0FEB4FB26D76C758"/>
+<pb n="36" facs="unknown:031198_0034_0FEB4FB26D76C758"/>
 ſuppoſing it is by the conſent of Sir John? The idea of becom<g ref="char:EOLhyphen"/>ing a miſtreſs is ſo repugnant to your nature, that I am convinced the bare thought will make you tremble as you read. I wiſh not to ſhock you with chimerical, and horrid phantoms, but to place every circumſtance ſtrongly in the view you ought to ſee it. You left France in the firm hope of finding an only parent.—Return to it in the ſtrong aſſurance of meeting an affectionate friend. Only conſider what con<g ref="char:EOLhyphen"/>tempt and reproaches you are doom<g ref="char:EOLhyphen"/>ed to ſuffer, if you remain with the family till the ſecret is known. —Think what miſery you will eſ<g ref="char:EOLhyphen"/>cape by reſolutely following the dic<g ref="char:EOLhyphen"/>tates of reaſon, and quitting the man, who, it is certain, aims at your eternal ruin.—You entreat my advice, and give a promiſe, "implicitly to abide by it,"—have I not ſaid as much as ought to deter<g ref="char:EOLhyphen"/>mine you againſt whatever he may
-<pb n="37" facs="tcp:031198_0035_0FEB4FB40C07C5E0"/>
+<pb n="37" facs="unknown:031198_0035_0FEB4FB40C07C5E0"/>
 urge to the contrary?—My heart feels all that your's will ſuffer, on being obliged to give up the object of it's tendereſt wiſhes. Though you will hereafter own, that it is eaſier to endure the heart ache for a few weeks, or even months, than experience the ſeverity of cruel reflection whole years.—I will not add more on the ſubject, my D'Ar<g ref="char:EOLhyphen"/>cy poſſeſſes an uncommon ſhare of ſenſe, which, if attended to, will car<g ref="char:EOLhyphen"/>ry her ſafe through every diffi<g ref="char:EOLhyphen"/>culty; and I doubt not, be the means of her being with me this day three weeks.—In that hope I con<g ref="char:EOLhyphen"/>clude myſelf,</p>
                <closer>
                   <signed>Your ſincerely affectionate <hi>MARIANNE D'AUBIGNY.</hi>
@@ -298,15 +299,15 @@ urge to the contrary?—My heart feels all that your's will ſuffer, on being ob
                </closer>
             </div>
             <div type="letter">
-               <pb n="38" facs="tcp:031198_0036_0FEB4FB71D95AF48"/>
+               <pb n="38" facs="unknown:031198_0036_0FEB4FB71D95AF48"/>
                <head>To the Chevalier Chattelherhault.</head>
                <p>I TOLD you in my laſt,<note n="*" place="bottom">Which does not appear.</note> Chattel<g ref="char:EOLhyphen"/>herhault, what a divine creature I had reſcued from infamy.</p>
                <p>It certainly was wrong to intro<g ref="char:EOLhyphen"/>duce her at my father's houſe as your ſiſter. I ſee the impropriety now, though it did not ſtrike me at the time—yet there appeared a ſome<g ref="char:EOLhyphen"/>thing ſo indelicate in offering to place her in lodgings, after having promiſed her a ſecure retreat under the protection of my mother and ſiſ<g ref="char:EOLhyphen"/>ter, that I could not have been ca<g ref="char:EOLhyphen"/>pable of it for the world, though by not doing it I have rendered both her and myſelf perfectly wretched —Miſtake not my meaning, I could not be wretched were it not that Miſs Beaufoy has totally become a prey to her fears—ſhe ſays ſhe is
-<pb n="39" facs="tcp:031198_0037_0FEB4FB8CB2DD4E8"/>
+<pb n="39" facs="unknown:031198_0037_0FEB4FB8CB2DD4E8"/>
 terrified beyond expreſſion at the ſound of every ſtrange voice, left it ſhould prove a perſon who can diſ<g ref="char:EOLhyphen"/>cover the impoſtor in her looks. Charming, innocent, engaging girl, my affection for her is ſo ſtrongly ri<g ref="char:EOLhyphen"/>vetted, that I cannot ſuffer her to depart, though I know it is madneſs to detain her—You will reaſonably aſk, What I intend doing with her, and whether my enthuſiaſm ex<g ref="char:EOLhyphen"/>tends far enough to marry her? I frankly own it does. Were I poſ<g ref="char:EOLhyphen"/>ſeſſed of an independant fortune ſhe is the only woman who ſhould ſhare it with me; but ſituated as I am, it cannot be.—Of a noble fa<g ref="char:EOLhyphen"/>mily himſelf, my father thinks it a duty incumbent on his ſon, to ſup<g ref="char:EOLhyphen"/>port it's dignity by marriage.— Should I marry Miſs Beaufoy, my mother's future days will be embit<g ref="char:EOLhyphen"/>tered by cruel reflections from him for her fooliſh indulgence of me when a boy; and though I never ſhould value his reſentment towards
-<pb facs="tcp:031198_0038_0FEB4FBF0112D378"/>
+<pb facs="unknown:031198_0038_0FEB4FBF0112D378"/>
 myſelf on the occaſion, I could not endure the mortifying thought, of cauſing uneaſineſs for her tender nature to combat with. You are a man of gallantry, and will wonder at my having even one difficulty to encounter: nay will tell me the girl is in my power and I ought to make a good uſe of my time; it is true ſhe is in my power—but ho<g ref="char:EOLhyphen"/>nour forbids me to trample on the laws of humanity, or the rights of hoſpitality—In fact I love her, and that love will not permit me to of<g ref="char:EOLhyphen"/>fer an indignity to her—She is ex<g ref="char:EOLhyphen"/>tremely eager to return to France— I think ſhe has left a lover behind, and that is her motive for hurrying from me. I have been prudent enough to conceal from Miſs Beau<g ref="char:EOLhyphen"/>foy the paſſion I entertain for her, which, hopeleſs as it is, ſhe never ſhall be acquainted with. I am convinced ſhe entertains not a ſuſ<g ref="char:EOLhyphen"/>picion of my being in love with her, but rather attributes my ten<g ref="char:EOLhyphen"/>der
-<pb facs="tcp:031198_0039_0FEB4FC0A0F5F530"/>
+<pb facs="unknown:031198_0039_0FEB4FC0A0F5F530"/>
 ſolicitude to the effects of com<g ref="char:EOLhyphen"/>paſſion.—Would my ſtars had aſ<g ref="char:EOLhyphen"/>ſigned it really was ſo—No man is more ſuſceptible to the charms of beauty than myſelf, and I could pledge my life on the truth, that it never coſt a human being more pain, to keep themſelves, what the world terms honeſt than I have ſuf<g ref="char:EOLhyphen"/>fered—By heavens I cannot be<g ref="char:EOLhyphen"/>hold this charming girl with the eye of a ſeducer, and muſt make no other determination but that of bid<g ref="char:EOLhyphen"/>ding her adieu. The thought drives me deſperate. I can only add,</p>
                <closer>
                   <signed>Your's ſincerely, <hi>HENRY OSBORN.</hi>
@@ -314,7 +315,7 @@ myſelf on the occaſion, I could not endure the mortifying thought, of cauſing
                </closer>
             </div>
             <div type="letter">
-               <pb n="42" facs="tcp:031198_0040_0FEB4FC2629B9A98"/>
+               <pb n="42" facs="unknown:031198_0040_0FEB4FC2629B9A98"/>
                <head>To Miſs Oſborn.</head>
                <opener>
                   <dateline>
@@ -322,18 +323,18 @@ myſelf on the occaſion, I could not endure the mortifying thought, of cauſing
                   </dateline>
                </opener>
                <p>YOUR ſummons, and even threats, are likely to avail you no<g ref="char:EOLhyphen"/>thing.—My dear Mrs. Raymond has been ill, and ſtill continues languid; ſhe entreats I will remain with her, and I cannot refuſe: in<g ref="char:EOLhyphen"/>deed the tie of friendſhip will not ſuffer me to leave her till her health is re-eſtabliſhed—I am happy in your having obtained ſo valuable in acquiſition as your acquaintance with Mademoiſelle Chattelherhault —I think I need hardly repeat here, that whatever affords you pleaſure gives me infinite ſatisfaction, though the idea of your having diſpoſed of that heart, which you have ever boaſted was invulnerable, is really a ſubject for mirth to me—Pray who is this ſelf ſame ſomebody, on whom your mad cap ladyſhip has
-<pb n="43" facs="tcp:031198_0041_0FEB4FC403E2D7B0"/>
+<pb n="43" facs="unknown:031198_0041_0FEB4FC403E2D7B0"/>
 thought proper to beſtow the little flutterer? He muſt be a man of ſenſe, or he had not attracted your notice; his manners muſt be pleaſ<g ref="char:EOLhyphen"/>ing, or you never had regarded him with an eye of affection.—His birth muſt be noble, elſe had you not ſuffered the paſſion to take poſſeſ<g ref="char:EOLhyphen"/>ſion of your breaſt, and I am ſure, his fortune muſt be ample, or your father will never conſent to your having him. But why in the name of fate do you perſiſt in teaſing the poor man? Beware, Matilda, of going too far. There's no great art requiſite in the making a conqueſt, the difficulty lays in ſecuring the affections; but if you give a man cauſe to ſuppoſe your own are eſtranged from him, is he to be blamed for withdrawing his? A heart once loſt to a woman in ſuch a way is never to be regained. And why? the lover thinks himſelf neg<g ref="char:EOLhyphen"/>lected, pays attention to other wo<g ref="char:EOLhyphen"/>men, while the real object of his
-<pb n="44" facs="tcp:031198_0042_0FEB4FC5C4067CB0"/>
+<pb n="44" facs="unknown:031198_0042_0FEB4FC5C4067CB0"/>
 choice remains totally unnoticed. She feels herſelf piqued and treats him with diſdain. An altercation enſues, the gentleman is of opinion, ſome trifling acknowledgment is due from the lady for her firſt error, while too proud to ſtoop, preſum<g ref="char:EOLhyphen"/>ing on her charms, ſhe bids him be gone and never ſee her more; he takes her at her word, and ſome other poſſibly leſs fair, but more kind female, compenſates him for the loſs of the firſt. You dare me to accuſe you of inſenſibility: how can I, while your charity towards diſtreſſed families, and attention to ſick friends, aſſure me you inherit it not in any degree. But why ſuffer a playful heart to trifle with the happineſs of him on whom your own depends, by ſtriving to con<g ref="char:EOLhyphen"/>vince, that <hi>ſenſibility</hi> is a virtue you have not yet attained? You are al<g ref="char:EOLhyphen"/>lowed to be handſome: have gained a number of lovers; and, as you have diſcovered the ſecret, I am no long<g ref="char:EOLhyphen"/>er
-<pb n="45" facs="tcp:031198_0043_0FEB4FCA764CDD18"/>
+<pb n="45" facs="unknown:031198_0043_0FEB4FCA764CDD18"/>
 ſurpriſed at Grenville's advan<g ref="char:EOLhyphen"/>tageous offer being rejected; for well I know, you never could conſent to become a wife to that man who was not ſole maſter of your heart. But ſuffer me to entreat, if he in queſtion is worthy of it, that you forbear to wound his feelings. You know the force of my attachment towards you, and cannot be diſ<g ref="char:EOLhyphen"/>pleaſed at the liberty I have aſſum<g ref="char:EOLhyphen"/>ed. Adieu. Reflect on what is ob<g ref="char:EOLhyphen"/>ſerved above by,</p>
                <closer>
                   <signed>SOPHIA TOWNSEND.</signed>
                </closer>
             </div>
             <div type="letter">
-               <pb n="46" facs="tcp:031198_0044_0FEB4FCDDF39A700"/>
+               <pb n="46" facs="unknown:031198_0044_0FEB4FCDDF39A700"/>
                <head>To Mademoiſelle D'Aubigny.</head>
                <opener>
                   <dateline>
@@ -341,18 +342,18 @@ choice remains totally unnoticed. She feels herſelf piqued and treats him with 
                   </dateline>
                </opener>
                <p>THANKS to you, my Marianne, for your tender concern, and even for your ſeverity; it has convinced me of my error, and I am no longer inſenſible to my danger. Yet I muſt do Mr. Oſborn the juſtice to aver, that he has never once profeſſed a regard for me further than compaſ<g ref="char:EOLhyphen"/>ſion extends. Surely ſuch behaviour has not the meaning of a ſeducer in it, though men are deſigning, and can put on the maſk of friendſhip, while they have an unwary object's ruin in view; but he ſhall find D'Arcy Beaufoy's virtue cannot be conquered. My mother diſcovered a propenſity in my juvenile mind towards levity; ſhe fell an inno<g ref="char:EOLhyphen"/>cent victim to it herſelf and deter<g ref="char:EOLhyphen"/>mined to cruſh the dawning of it in her child. Death ſuffered her not
-<pb n="47" facs="tcp:031198_0045_0FEB4FCF809A8E68"/>
+<pb n="47" facs="unknown:031198_0045_0FEB4FCF809A8E68"/>
 to compleat the victory; but Stam<g ref="char:EOLhyphen"/>ford accompliſhed what ſhe wiſhed to ſee performed. I mean not to in<g ref="char:EOLhyphen"/>ſinuate that I am become a prude, merely to deceive the penetrating eye of friendſhip. No, it is a maen<g ref="char:EOLhyphen"/>neſs I ſhould deſpiſe in another ear<g ref="char:EOLhyphen"/>ly, and muſt deteſt in myſelf; but to aſſure you that you have not ſo much to dread from my ſuſceptibi<g ref="char:EOLhyphen"/>lity (which I confeſs is great), as your apprehenſions for my ſafety ſuggeſts. Since I received your let<g ref="char:EOLhyphen"/>ter I told Miſs Oſborn that I was alarmed at my brother's remaining ſo much longer at home than he in<g ref="char:EOLhyphen"/>tended; and if he arrived not in England next week I ſhould poſi<g ref="char:EOLhyphen"/>tively return to France the enſuing one. She looked aſtoniſhed, and inſiſted on my renouncing every idea of the kind. I was deter<g ref="char:EOLhyphen"/>mined; ſhe reſolute: and each in her humour retired to dreſs; but I give you my honour you ſhall ſee me at the appointed time. While I
-<pb n="48" facs="tcp:031198_0046_0FEB4FD74BD6CEB8"/>
+<pb n="48" facs="unknown:031198_0046_0FEB4FD74BD6CEB8"/>
 remain here I am forced againſt in<g ref="char:EOLhyphen"/>clination to appear every day in company, and dreading a diſcovery ry I cannot diveſt myſelf of fear, which is certainly miſtaken for ſtu<g ref="char:EOLhyphen"/>pidity. What a different appear<g ref="char:EOLhyphen"/>ance does my behaviour wear here, and at Boulogne; there I was known as Mademoiſelle Beaufoy, celebrated for the elegancy of her manners; here cannot be otherwiſe diſtinguiſhed than by the name of Chattelherhault, an aukward French girl. I ſhall very ſoon bid adieu to this amiable family forever. Surely gratitude cannot be account<g ref="char:EOLhyphen"/>ed a crime, if it were, I am guilty indeed. Mr. Oſborn's noble gene<g ref="char:EOLhyphen"/>roſity has demanded that tribute of me, and I have given with it a heart, undivided by love for any of his ſex. To my Marianne I may ac<g ref="char:EOLhyphen"/>knowledge this truth; but it never ſhall eſcape me to another ſoul. You will conſole me for the loſs, till it is perfectly regained. Much hap<g ref="char:EOLhyphen"/>pier
-<pb n="49" facs="tcp:031198_0047_0FEB4FDA523BFFD0"/>
+<pb n="49" facs="unknown:031198_0047_0FEB4FDA523BFFD0"/>
 ſhould I have found myſelf, had I never known the void; yet why ſhould I ſay that? The pleaſing ſenſations a perſon experiences, when contemplating the object of their tendereſt wiſhes, though but in idea, compenſate for all their pain. Oh Marianne, too fatally I feel the imbecility of the above aſ<g ref="char:EOLhyphen"/>ſertion. I love—and without hope. Thoſe who find the pleaſure more than tranſient, muſt be allowed a reciprocal return. I will not awa<g ref="char:EOLhyphen"/>ken your anxiety, by ſuffering mur<g ref="char:EOLhyphen"/>murs to eſcape me, for that which I ought to conceal, even from my<g ref="char:EOLhyphen"/>ſelf; but ſolicit your acceptance of the tendereſt wiſhes of,</p>
                <closer>
                   <signed>D'ARCY BEAUFOY.</signed>
                </closer>
             </div>
             <div type="letter">
-               <pb n="50" facs="tcp:031198_0048_0FEB4FDF1DF47CD0"/>
+               <pb n="50" facs="unknown:031198_0048_0FEB4FDF1DF47CD0"/>
                <head>To Mademoiſelle D'Aubigny.</head>
                <opener>
                   <dateline>
@@ -360,13 +361,13 @@ remain here I am forced againſt in<g ref="char:EOLhyphen"/>clination to appear 
                   </dateline>
                </opener>
                <p>WHITHER can I immure myſelf to eſcape the purſuit of the vile undoer? Oh, Marianne, Stam<g ref="char:EOLhyphen"/>ford will certainly diſcover my re<g ref="char:EOLhyphen"/>treat, and then I am loſt indeed! How could I ſuffer Mr. Oſborn to prevail on me to come here? Why not return immediately to France, rather than haſten to a place where no relatives lived to protect me? A blind fate ſeems to purſue me, and I now look forward to approaching ſhame, as an occurrence which muſt inevitably befal me. The pro<g ref="char:EOLhyphen"/>tection of Sir John Oſborn's family, which ſhould be my ſecurity, will help to involve me in ſtill greater difficulties, it will make my ſtory become public, and render my diſgrace conſpicuous. Say, will you receive the criminal, after having
-<pb n="51" facs="tcp:031198_0049_0FEB4FE3DEB60F80"/>
+<pb n="51" facs="unknown:031198_0049_0FEB4FE3DEB60F80"/>
 been detected in the guilt of an im<g ref="char:EOLhyphen"/>poſition? Yes, I know you will; and my heart feels already elated, by giving way to the pleaſing idea. You are impatient to be informed of particulars, while I am ſuffering my fears to hurry me beyond the bounds of reaſon. Laſt night Miſs Oſborn would take no denial—but I muſt accompany herſelf and mo<g ref="char:EOLhyphen"/>ther, with Lady S— to ſee a new comedy. Fortunately her brother was engaged, before the party was made, or he would have been our eſcort. We were in the ſtage box. At the concluſion of the laſt act, Stamford appeared in the oppoſite one; a dreadful ſickneſs ſeized me, and I could only articulate, "I am very ill. Lady Oſborn allow me to leave the theatre." Terrified at the alteration in my looks, neither her lady ſhip or daughter would ſuf<g ref="char:EOLhyphen"/>fer me to go alone, but quitted the houſe inſtantly with me; and 'twas with the utmoſt difficulty I was
-<pb n="52" facs="tcp:031198_0050_0FEB4FE752B5D350"/>
+<pb n="52" facs="unknown:031198_0050_0FEB4FE752B5D350"/>
 kept from fainting in the carriage: the dread of his following, and claiming me when it ſlopt, operated ſo ſorcibly on my mind. Mr. Oſborn is now convinced of the im<g ref="char:EOLhyphen"/>propriety of my remaining any longer with his family, and has at length promiſed, that the Chevalier ſhall write an excuſe for being ob<g ref="char:EOLhyphen"/>liged to defer his viſit, and likewiſe deſiring my return immediately. Though he ſtill inſiſts, that I have nothing to fear from Stamford, be<g ref="char:EOLhyphen"/>cauſe when he finds I am counte<g ref="char:EOLhyphen"/>nanced by people of rank, he will drop all hopes of regaining me. But I know his diſpoſition too well, to imbibe a notion of the kind; and ſhall be perfectly miſerable, till ſafe in the protection of my deareſt D'Aubigny.—Should Stamford diſ<g ref="char:EOLhyphen"/>cover with whom I am, how, or in what manner ſhall I be extricated? Enraged at the impoſition—will not Sir John deliver me into the vile man's hands, the moment I am de<g ref="char:EOLhyphen"/>manded?
-<pb n="53" facs="tcp:031198_0051_0FEB4FEA7AC33A68"/>
+<pb n="53" facs="unknown:031198_0051_0FEB4FEA7AC33A68"/>
 And then Mr. Oſborn, what a contemptible light he will appear in, for having introduced ſo wretched an outcaſt to his mother and ſiſter as I am—I can only be commanded to leave the houſe; he, as a ſon of it, will be ſpoken of with ſcorn by every branch of his family —cruel reflection, that for the ſake of reſcuing an injured orphan from infamy, he muſt bear the ſtigma of ill treating relations who doat on him. Is it not D'Arcy Beaufoy who is likely to draw on him every re<g ref="char:EOLhyphen"/>proach he can receive? I cannot endure the mortifying thought; ſtubborn heart why will you not break, and looſe the bonds which confine my ſoul to earth? Avaunt, raſh murmurs, you ſhall not be per<g ref="char:EOLhyphen"/>mitted to eſcape me. Indeed Ma<g ref="char:EOLhyphen"/>rianne I have been very ill, and the pain I ſtill feel renders me ſomewhat peeviſh, ſo you muſt not be angry at the impatience I have expreſſed above—Mr. Oſborn ſays I muſt re<g ref="char:EOLhyphen"/>main
-<pb n="54" facs="tcp:031198_0052_0FEB4FEEB5845140"/>
+<pb n="54" facs="unknown:031198_0052_0FEB4FEEB5845140"/>
 main here till the Chevalier writes, though if Stamford diſcovers my re<g ref="char:EOLhyphen"/>treat, you will very ſoon ſee the degraded orphan in</p>
                <closer>
                   <signed>D'ARCY BEAUFOY.</signed>
@@ -380,29 +381,29 @@ main here till the Chevalier writes, though if Stamford diſcovers my re<g ref="
                   </dateline>
                </opener>
                <p>YOU tell me your friend is ill, that the tie of friendſhip will not ſuffer you to leave her. Charming emanation, how I admire it, and charge the child to remain with her till her health is re-eſtabliſhed; in the mean time I will do my utmoſt to divert you both—Satire is my vein you know, if you approve it, it is well; if not, I believe you will find my thoughtleſs brain is very
-<pb n="55" facs="tcp:031198_0053_0FEB4FF55733BA50"/>
+<pb n="55" facs="unknown:031198_0053_0FEB4FF55733BA50"/>
 barren of invention: that it is fertile at embelliſhments, I think I have already convinced you; and as a proof that I can delineate truly when <hi>will</hi> is at home, I will even give you the ſketch of a character, which I am ſure you will know again, ſhould chance ever bring you into company with the original. You are to know, I called on Mrs. Criſp the other morning, and found a Mrs. and Miſs Rawlins with her. Picture to yourſelf an old ſoul near ſeventy years of age, whoſe hair had once been dark, but from the ravages of Time, turned three parts white, Imagine this hoary hair, frizzed, not to ſay dreſt, into no form whatever, ſome long, dangling from what ſhe terms the toupee, while the reſt ſo ſhort, appears envi<g ref="char:EOLhyphen"/>ouſly peeping from under a very ſmall faſhionable white bonnet, which, to make the owner look more like an old ewe dreſt lamb<g ref="char:EOLhyphen"/>faſhion, muſt be ſtuck on one ſide,
-<pb n="56" facs="tcp:031198_0054_0FEB4FF710D91858"/>
+<pb n="56" facs="unknown:031198_0054_0FEB4FF710D91858"/>
 with her veil pinned up, to diſco<g ref="char:EOLhyphen"/>ver a broad red face, ornamented with what I ſuppoſe ſhe calls dim<g ref="char:EOLhyphen"/>ples; but what even I cannot find a ſimile for. Her twinkling grey orbs look aſkaunce on a bottle noſe, and her mouth, when laughing, might eaſily be miſtaken for a gaſh from ear to ear; but what deity muſt I invoke to a aſſiſt me in deſcrib<g ref="char:EOLhyphen"/>ing her nonpareils of teeth? which are decayed nearly to the gums, and what few ſtumps remain in ſight are quite ſufficient to turn the ſtrongeſt ſtomach. Her perſon, fat and un<g ref="char:EOLhyphen"/>weildy, is decked out in a blue ſatin gown, ornamented with cocq-le-coc riband, and a petticoat of the ſame ſtaring colour, with a pink cloak, trimmed with black lace. I will give you a flight ſketch of her con<g ref="char:EOLhyphen"/>verſation preſently. It ſeems ſhe has ſeveral children: but a ſon whom ſhe calls Jacky is her favourite, becauſe he happens to be one of the moſt egregious fops living; the daughter
-<pb n="57" facs="tcp:031198_0055_0FEB4FFA55BB9170"/>
+<pb n="57" facs="unknown:031198_0055_0FEB4FFA55BB9170"/>
 who accompanied her, is her aver<g ref="char:EOLhyphen"/>ſion. The poor thing has the miſ<g ref="char:EOLhyphen"/>fortune to be amiable. I muſt bring you acquainted with her by the name of Nan, which her mamma in thick liſp calls her in every com<g ref="char:EOLhyphen"/>pany. In her uſual ſtile, Mrs. Criſp was rallying me on Grenvill's ac<g ref="char:EOLhyphen"/>count, and Mrs. Rawlins, to ſhew her wit, began with a loud laugh: 'and, I dare ſay matrimony would agree with you. I ſay, why do you not try it?'—Language like this was new to me, and ſtaring at her with aſtoniſhment, I turned my en<g ref="char:EOLhyphen"/>quiring eyes towards my friend, whoſe anſwering look bid me expect amuſement. The ſequel will ſhew I wanted not ſcope for ridicule. I had not returned an anſwer, but her daughter had caſt a correct<g ref="char:EOLhyphen"/>ing glance, which produced an in<g ref="char:EOLhyphen"/>terrogation of Lord, Nan, whats it ſignify arent not we all women a<g ref="char:EOLhyphen"/>like? I ſay Miſs Oſborn, Nan is ſetting her eyes at me, becauſe I
-<pb n="58" facs="tcp:031198_0056_0FEB4FFD700B1E38"/>
+<pb n="58" facs="unknown:031198_0056_0FEB4FFD700B1E38"/>
 axed you a ſimple queſtion, now what harm was there in that?' Wil<g ref="char:EOLhyphen"/>ling to humour the joke, I replied, 'Oh none, madam, and I aſſure you I have no objection to the marriage ſtate; the difficulty lies in getting the other ſex in the mind.' Ah, I know you girls, all loves to get the men in your ſuit; but its us widows they make up to for wives: but come now I will tell you where to go to know who is to be your huſband. I ſay, Nan, where is that what's his name moved to?' Without wait<g ref="char:EOLhyphen"/>ing that I might be informed, ſhe went on. Well, I likes a bit of for<g ref="char:EOLhyphen"/>tune vaſtly. Do you know I went to him, to ax him about Jacky? and he ſays he is to be married to a Lady of vaſt great fortune.' 'How long did he ſay it is to be before Miſs Rawlins is married,' interrupted Mrs. Criſp looking ſignificantly at me. 'Oh, he ſays Nan is to die a maid, and I am to be married be<g ref="char:EOLhyphen"/>fore the years out; is not that droll
-<pb n="59" facs="tcp:031198_0057_0FEB4FFF422817F0"/>
+<pb n="59" facs="unknown:031198_0057_0FEB4FFF422817F0"/>
 now? He ſays Jacky will be very extravagant; and ſo I have left him plenty of money, for I does love Jacky's little finger better an all the bodies of the others; is not that odd now? I ſay I will tell you ſome<g ref="char:EOLhyphen"/>thing vaſtly drole; he ſaid, ſays he, if you go and walk as far as Green<g ref="char:EOLhyphen"/>wich park; but you muſt walk all the way, ſays he, becauſe I do not know whether he may not be on the road, the twenty firſt of next month between the hours of twelve and two, you'll ſee a good luſty looking gentleman, and he will ac<g ref="char:EOLhyphen"/>coſt you, ſays he: and that man, ſays he, is to be your huſband; was not that, drole now? Hey'— 'aſtoniſhing!' ſaid I, putting on one of my looks of ſurpriſe, which you know I can make uſe of at pleaſure, 'I hope you wont, ma'am?' 'Oh yes, and what was vaſtly particular, I had but juſt got in at the gate, when he comes up to me. Was not that odd now? and ſo after we began
-<pb n="60" facs="tcp:031198_0058_0FEB5000E0A1E5A8"/>
+<pb n="60" facs="unknown:031198_0058_0FEB5000E0A1E5A8"/>
 talking, he 'tempted to chuck me under the chin; and ſo ſays he, you are a pretty girl, and ſays he if you have a mind to live with me, I will allow you a guinea a week. But I told him, I was not the perſon he took me for; and I was a Lady of vaſt great fortune.' Here I could not have refrained from laughing, had I not perceived that Miſs Raw<g ref="char:EOLhyphen"/>lins was very much hurt at her mo<g ref="char:EOLhyphen"/>ther's making ſuch a fool of herſelf; however ſhe went on. 'He begged my pardon and was vaſtly ſorry, and hoped I was not offended, and ſo I told him, no; and then he axed me for my card, and I gave it him, and ſo he has viſited me ever ſince. Was not that odd now?' 'Oh ſur<g ref="char:EOLhyphen"/>priſing to a degree! but how in the name of fate, did you contrive to walk to Greenwich?' ſaid I. 'Why I walks about a great deal always, but I was ſo tired, tho' I took a coach home, that I did not know what to do; was not I, Nan? 'Then
-<pb n="61" facs="tcp:031198_0059_0FEB5005ED95F3D0"/>
+<pb n="61" facs="unknown:031198_0059_0FEB5005ED95F3D0"/>
 there is no doubt, ma'am, (ſaid Mrs. Criſp,) of the match being concluded I ſuppoſe.''Why I does not know that there is, for Mr. Sampſon is ſo vaſtly good natured, and he's ſo much in love with me, that I don't ſee how I can ſtand out, and what's vaſtly particular, he's a man without a fault. Is not that odd now, hey?' 'Odd indeed, re<g ref="char:EOLhyphen"/>turned I, for I never yet heard of ſuch a one, and only wiſh, your's may prove to be without a fault, af<g ref="char:EOLhyphen"/>ter having got poſſeſſion of your fortune.' 'Oh, he does not want me for my money, he ſays, for if I had not a farding he'd have me, for he's got a vaſt deal of his own; and he ſays as how, if I wont have him, that he wont have any body elſe; is not that odd now?' Then the old figure ran on in ſuch extravagant praiſes of her man. that I was quite wearied before ſhe got up, and gave me what I ſuppoſe ſhe thought a polite invitation. 'Well, I ſay,
-<pb n="62" facs="tcp:031198_0060_0FEB50091734C008"/>
+<pb n="62" facs="unknown:031198_0060_0FEB50091734C008"/>
 Miſs Oſborn, I ſhall be vaſtly glad to ſee you; I lives in Grovenor Square; Mrs. Criſp will ſhew you the houſe; and I ſhall take it vaſtly ill if you dont come;' then making a bob curtſey, half ſide ways, ſhe waddled out of the room. 'In the name of every thing that is rational, exclaimed I, where or in what company could you poſſibly have ſingled out that fulſome old ſoul?' Mrs. Criſp ſaid ſhe was the widow of a rich citizen, who having made himſelf by his aſſiduity to buſineſs, it might eaſily be ſeen from the illi<g ref="char:EOLhyphen"/>terate behaviour of his rib, had been accuſtomed to aſſociate with the loweſt claſs of people. It ſeems ſhe met with her at the houſe of a relation, through whoſe means the old fool has gained a few genteel acquaintances; but as they only in<g ref="char:EOLhyphen"/>vite her for the ſake of diverſion, ſo they ſoon weary of ditto repeat<g ref="char:EOLhyphen"/>ed, and drop the acquaintance as ſoon as they can. For her part Mrs.
-<pb n="63" facs="tcp:031198_0061_0FEB500C612F9EE8"/>
+<pb n="63" facs="unknown:031198_0061_0FEB500C612F9EE8"/>
 Criſp ſays, ſhe ſhall be happy in finding her houſe rid of ſuch a trou<g ref="char:EOLhyphen"/>bleſome viſitant, and, to effect it, will plead an engagement whenever ſhe ſends. You will certainly con<g ref="char:EOLhyphen"/>clude I have been exaggerating, and ſay ſuch a character cannot ex<g ref="char:EOLhyphen"/>iſt, but in my flighty imagination. Poſitively, it is the woman, as truly as truth can draw. I have not ad<g ref="char:EOLhyphen"/>ded a ſingle ornament to either dreſs or perſon, nor even a ſyllable more to the converſation, as thoſe who have ſeen her can teſtify—ſo much for that, now to affairs of greater conſequence. The happi<g ref="char:EOLhyphen"/>neſs you expreſs in my having little Chattelherhault with me, is likely to be done away very ſoon, the poor thing affects to be brother ſick, though I am out in my judgment if it favours not more of love; and declares as the Chevalier is not come ſhe will return to the conti<g ref="char:EOLhyphen"/>nent, I remonſtrate, but all to no purpoſe, the urchin has abſolutely
-<pb n="64" facs="tcp:031198_0062_0FEB501100EB2738"/>
+<pb n="64" facs="unknown:031198_0062_0FEB501100EB2738"/>
 fretted herſelf ill, and was obliged to leave the theatre laſt night; ſo I expect if this brother does not diſ<g ref="char:EOLhyphen"/>appoint her by ſhewing; himſelf in England, that young ſly-boots will find an excuſe for ſtealing a march upon us next week, and leave poor Henry to ſigh in ſolitude, and mourn his hapleſs fate: for if maſ<g ref="char:EOLhyphen"/>ter Cupid has not been playing him a ſlippery trick by catching him faſt in his trammels, ſay I have no diſcernment. The man has the aſ<g ref="char:EOLhyphen"/>ſurance to deny it, but his heart muſt have been adamant, could he have reſiſted the bright fire of her eyes, which for all the demure looks ſhe ſtrives to put on, tells me ſhe is not the inanimate ſoul ſhe would fain be thought; there is a ſpirit in the very glance of them, which ſays, "I was born to tri<g ref="char:EOLhyphen"/>umph:' then ſhe is ſuch an amiable diſpoſition that in ſhort I ſhall feel almoſt as much hurt on her depar<g ref="char:EOLhyphen"/>ture as her ſentimental lover.
-<pb n="65" facs="tcp:031198_0063_0FEB501593CA3538"/>
+<pb n="65" facs="unknown:031198_0063_0FEB501593CA3538"/>
 There's another <hi>rub</hi> in the way to plague me; here have I ſet my heart on making a conqueſt of the Chevalier, and in the midſt of the pleaſing ſenſations I was indulging of love, hearts, darts, and a thou<g ref="char:EOLhyphen"/>ſand other pretty little things, when Madam, whips into a poſt-chaiſe, drives away for the continent, and at once puts a ſtop to all my ideal dreams of delight. Deuce take me if I am not even with her before the year's out, and for the preſent will conſole myſelf by ſpitting my ſpite, by teizing you. And ſo you really expect I ſhould divulge the only ſe<g ref="char:EOLhyphen"/>cret I ever kept from you, after the pretty ſermon you were kind enough to ſend? No, no, child, that will never do. What have I been racking my brains for years paſt to conceal the weakneſs of my heart from the world, and ſhall I now diſcover it to you? Affairs muſt take a very different turn from what they are in at preſent, before I
-<pb n="66" facs="tcp:031198_0064_0FEB50191A160250"/>
+<pb n="66" facs="unknown:031198_0064_0FEB50191A160250"/>
 reveal myſelf to any one be aſſured —though notwithſtanding your ſau<g ref="char:EOLhyphen"/>cy lecture I ſtill ſign myſelf,</p>
                <closer>
                   <signed>Your affectionate, <hi>MATILDA OSBORN.</hi>
@@ -417,11 +418,11 @@ reveal myſelf to any one be aſſured —though notwithſtanding your ſau<g re
                   </dateline>
                </opener>
                <p>IN a ſtrange country; you are diſ<g ref="char:EOLhyphen"/>treſſed in mind, and likely to be ill. Wait not for the Chevalier's letter; your laſt has made me wretched. Tell Sir John's family you have a friend dying: tell them any thing that will favour your eſcape from the nation, before a diſcovery can enſue; for well I know your ten<g ref="char:EOLhyphen"/>der nature cannot combat with the
-<pb n="67" facs="tcp:031198_0065_0FEB501C4C7C4230"/>
+<pb n="67" facs="unknown:031198_0065_0FEB501C4C7C4230"/>
 ſhock it will receive. The ſhame can never reach you here; and if you are afflicted with ſickneſs, friendſhip ſhall watch over it till health is reſtored. Never can I forget when the putrid fever ſeized me, in our convent; the companions of my juvenile years in terror de<g ref="char:EOLhyphen"/>ſerted me, being fearful of the con<g ref="char:EOLhyphen"/>tagion; you alone remained to com<g ref="char:EOLhyphen"/>fort and attend me, nor would ſuf<g ref="char:EOLhyphen"/>fer yourſelf to be forced away, though it was by the command of the abbeſs. It was not for friend<g ref="char:EOLhyphen"/>ſhip's ſake you did it, as I then ſix<g ref="char:EOLhyphen"/>teen, thought you who was ſcarce ten, too much of a child to beſtow my friendſhip on. No, it was innate goodneſs prompted the generous action. You ſtopt not here; in com<g ref="char:EOLhyphen"/>pleating a cure: change of air was neceſſary. I had no parents alive, and thoſe who were intruſted with the care of me, were at too great a diſtance to be applied to in time. You prevailed on your mother to
-<pb n="68" facs="tcp:031198_0066_0FEB5022FB591998"/>
+<pb n="68" facs="unknown:031198_0066_0FEB5022FB591998"/>
 ſuffer me to be with her. My health was eſtabliſhed, and my affection for you rooted. Madam Beaufoy was a ſecond parent to me, ought I then to forget that her child is un<g ref="char:EOLhyphen"/>happy? No, my dear D'Arcy, while reſpiration is allowed me, you ſhall never want a friend. My fortune is ample; come and ſhare it with me. It is Marianne invites. It is the voice of friendſhip ſpeaks. Suf<g ref="char:EOLhyphen"/>fer not Mr. Oſborn's flattering elo<g ref="char:EOLhyphen"/>quence to prevail; trifle not another moment with your future peace, but haſten to her who will be the guardian of your honour, the com<g ref="char:EOLhyphen"/>forter of your mind. You know my nature is not a ſevere one, I can al<g ref="char:EOLhyphen"/>low for your gratitude, and partake of the ſenſations it occaſions. I will ſooth the agitations of your heart, till love is glided into eſteem. I do nothing but reflect on myſelf for not fetching you to St. Omer's the moment I knew of your loſs, then had the ſevere trials you have borne
-<pb n="69" facs="tcp:031198_0067_0FEB502606E01DD8"/>
+<pb n="69" facs="unknown:031198_0067_0FEB502606E01DD8"/>
 been prevented, and your heart ſtill have remained a ſtranger to love. I like not Miſs Oſborn; you only ſpeak of her in one letter as ſpright<g ref="char:EOLhyphen"/>ly. I fear ſhe is more than ſpright<g ref="char:EOLhyphen"/>ly, ſhe appears to me volatile, and unthinking, ana by no means a fit companion for my gentle Beaufoy, or why did ſhe force you to accom<g ref="char:EOLhyphen"/>pany her to the theatre, when I am ſure you pleaded illneſs or ſome other excuſe which would have ſa<g ref="char:EOLhyphen"/>tisfied her, had ſhe been ſerious enough to attend to the dictates of good breeding. However, that you may not be obliged to her bro<g ref="char:EOLhyphen"/>ther, in pecuniary affairs, I have encloſed a thirty pound note, with the aſſurance that I am and ever will remain,</p>
                <closer>
                   <signed>Your affectionate friend, <hi>MARIANNE D' AUBIGNY.</hi>
@@ -429,7 +430,7 @@ been prevented, and your heart ſtill have remained a ſtranger to love. I like 
                </closer>
             </div>
             <div type="letter">
-               <pb n="70" facs="tcp:031198_0068_0FEB5027AEBBDA18"/>
+               <pb n="70" facs="unknown:031198_0068_0FEB5027AEBBDA18"/>
                <head>To Miſs Oſborn.</head>
                <opener>
                   <dateline>
@@ -437,26 +438,26 @@ been prevented, and your heart ſtill have remained a ſtranger to love. I like 
                   </dateline>
                </opener>
                <p>YOUR laſt afforded us an infinite deal of mirth, though Mrs. Ray<g ref="char:EOLhyphen"/>mond is of opinion with me that you have made the colouring to your fi<g ref="char:EOLhyphen"/>niſhing ſtrokes too high for the ori<g ref="char:EOLhyphen"/>ginal to be known by the portrait. What an eccentric ſoul art thou; were I not convinced of the innate goodneſs of your heart, I ſhould certainly think you one of the moſt malicious creatures living. You are poſſeſſed of a lively imagination, and want not the power of making your friends laugh at pleaſure; if you wanted leſs inclination, to ſhew your wit at the expence of your good nature, I am ſure thoſe who are now afraid of your very glance, would love you ſincerely. In an<g ref="char:EOLhyphen"/>ſwer to this I know you will ſay that if the ninnies are conſcious of
-<pb n="71" facs="tcp:031198_0069_0FEB502B018150A0"/>
+<pb n="71" facs="unknown:031198_0069_0FEB502B018150A0"/>
 having merited the laſh of ſatire, you are not fond of diſappointing them; however, not being willing to argue the point with you, as I may ſtand a chance of being reproached for a ſaucy lecturer a ſecond time, I will drop the ſubject<g ref="char:punc">▪</g> and as you have given me the character of a ridiculous old woman, in return, I will ſtrive to exhibit a ſcene of woe to you. It ſeems it is the cuſtom here for woman to attend gentle<g ref="char:EOLhyphen"/>men's gardens as well as the men. Mrs Raymond employs a pour in<g ref="char:EOLhyphen"/>duſtrious creature, who has a worth<g ref="char:EOLhyphen"/>leſs huſband and half a dozen chil<g ref="char:EOLhyphen"/>dren to maintain, in aſſiſting her gardener; the poor ſoul was very big with child, and ſhe had given her ſome old clothes to make baby linen, and deſired ſhe would let her know when ſhe was down lay<g ref="char:EOLhyphen"/>ing: the unfortunate woman ſent a week ago, but through the remiſſ<g ref="char:EOLhyphen"/>neſs of the ſervants Mrs. Raymond knew not of it till yeſterday, when
-<pb n="72" facs="tcp:031198_0070_0FEB503159317E50"/>
+<pb n="72" facs="unknown:031198_0070_0FEB503159317E50"/>
 I accompanied her to a houſe where this poor wretch lodged. On going up ſtairs we found all the children, ſome crying for bread and butter, while others, making light of even hunger itſelf, were contentedly playing on the floor; the eldeſt a girl of fourteen, was ſitting with her arms folded in a dejected atti<g ref="char:EOLhyphen"/>tude, on the ſide of a truckle bed, which, except an old deal table, was all the furniture in the room; the diſtreſſed mother and her infant child were laying on a mattreſs, with nothing more than a rug for their covering. On our entrance, a little boy, about five years of age, ran to a girl much leſs than himſelf, and ſnatching up her pin cloth, cri<g ref="char:EOLhyphen"/>ed, while wiping her eyes, 'Huſh, Sally, don't ye cry no more, here's ladies come to give ye ſome bread and butter, and bring poor mame and the baby ſomething to eat.' 'Will am give you ſome to Char<g ref="char:EOLhyphen"/>ly?' ſaid the little creature, blow<g ref="char:EOLhyphen"/>ing
-<pb n="73" facs="tcp:031198_0071_0FEB503369DFE110"/>
+<pb n="73" facs="unknown:031198_0071_0FEB503369DFE110"/>
 her noſe, to ſpeak the plainer, while her mother made an attempt to ſit up in the bed, but was ſo weak, from not having taken any kind of ſuſtenance for two days paſt, that ſhe could not. The dear little ſoul which was laying by her, had caught a cold in it's eyes, owing to a part of the caſement being broken away, and the want of a door to the room, as well as a fire in it, for there was no ſtove, and only a few faggots to beſet alight on the hearth, to warm ſome bread and water when the little ſufferer cried for food, as it's mother had ſcarce any milk in her breaſt to afford it. A ſcene<note n="*" place="bottom">The writer was witneſs <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> ſcene ſimilar to the above not three years ago.</note> to equal this I had never ſo much as heard of before, conſe<g ref="char:EOLhyphen"/>quently the ſight, which it is impoſ<g ref="char:EOLhyphen"/>ſible to deſcribe in the view it then appeared, ſhocked me to ſuch a de<g ref="char:EOLhyphen"/>gree, that had I not been relieved
-<pb n="74" facs="tcp:031198_0072_0FEB503692441A08"/>
+<pb n="74" facs="unknown:031198_0072_0FEB503692441A08"/>
 by tears I ſhould certainly have fal<g ref="char:EOLhyphen"/>len into hyſterics. It excited every tender feeling ſo much for the poor in my breaſt, that if I had been poſ<g ref="char:EOLhyphen"/>ſeſſed of the power, I wanted not for inclination at the moment, to have raiſed every beggar in the na<g ref="char:EOLhyphen"/>tion to an affluent fortune; we ſtay<g ref="char:EOLhyphen"/>ed but a ſhort time, after giving them what ſilver we had in our pockets, as Mrs. Raymond wiſhed to haſten home and have ſomething comfortable made and ſent to the poor woman, which ſhe has done every day ſince, with broken vic<g ref="char:EOLhyphen"/>tuals for the children. She intends taking the eldeſt girl in<gap reason="illegible: indecipherable" extent="2 letters">
                      <desc>••</desc>
                   </gap> the houſe, and have her taught plain work, that ſhe may be uſeful to her fami<g ref="char:EOLhyphen"/>ly; and the laſt child which is a boy, to ſtand godmother to, and put him to ſchool when big enough, and afterwards bind him apprentice to ſome trade; would every woman whoſe fortune was ſufficient to allow it, follow her example, what ſcenes
-<pb n="75" facs="tcp:031198_0073_0FEB50399D4A8518"/>
+<pb n="75" facs="unknown:031198_0073_0FEB50399D4A8518"/>
 of diſtreſs and wretchedneſs might they prevent; but a love of gaming is become ſo prevalent in the breaſts of our females that they care not what meanneſſes they are guilty of, if it will enable them to ſport a lar<g ref="char:EOLhyphen"/>ger quantity of money at the card table; and poſſibly one lady loſes in four hours, more than would ren<g ref="char:EOLhyphen"/>der half a dozen families comforta<g ref="char:EOLhyphen"/>ble their whole lives. Now would ſome of theſe faſhionable women, whoſe conduct I have been making ſo free with, ſay, that I am running on in the ſtrain of a moraliſt, with<g ref="char:EOLhyphen"/>out the aid of years or even ſenſe to ſupport the character, therefore to oblige them, I will lay aſide the ſubject to tell you how pleaſed I am, at your being diſappointed in your views on the Chevalier; how you can trifle with your own feelings, I cannot reconcile with my ideas of knowing pleaſure in that ſtate; for were I i<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap> 
                   <gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>ove as you ſay you are, I could not afford one ſmile to any
-<pb n="76" facs="tcp:031198_0074_0FEB503FDF6A86B8"/>
+<pb n="76" facs="unknown:031198_0074_0FEB503FDF6A86B8"/>
 other of the ſex, while the object of it was in company; and if he chanced to pay more attention to another, while I happened to be by, I really believe that my fooliſh heart would diſcover it's weakneſs, by forcing an inundation from my eyes. You laugh at my frank confeſſion, and to put a ſtop to your ridicule I end my epiſtle, by aſſuring you that I ſtill remain,</p>
                <closer>
                   <signed>Your's ſincerely, <hi>SOPHIA TOWNSEND.</hi>
@@ -472,7 +473,7 @@ other of the ſex, while the object of it was in company; and if he chanced to p
                   <salute>SIR,</salute>
                </opener>
                <p>BY what authority you attempt to harbour Mademoiſelle Beaufoy
-<pb n="77" facs="tcp:031198_0075_0FEB5042E6755640"/>
+<pb n="77" facs="unknown:031198_0075_0FEB5042E6755640"/>
 I know not; but as her guardian muſt inform you, that I have a right to claim her, wherever found. I have not a doubt, that ſome-atroci<g ref="char:EOLhyphen"/>ous falſehood has been advanced to excite your humanity, and extort your protection of her. However, that you may no longer be duped by an artful tale, I muſt tell you ſhe eloped on our landing at Dover, from France, with a young fellow whom no one knows any thing of. I had not been able to diſcover her abode till this morning. I ſaw her in a carriage which bears your arms; now an affair of this kind being made public, I ſhould appre<g ref="char:EOLhyphen"/>hend, would by no means be agree<g ref="char:EOLhyphen"/>able to you, therefore if the lady is immediately reſtored I ſhall ſuf<g ref="char:EOLhyphen"/>fer the ſtory to ſink into oblivion. If ſhe is not, be aſſured I will en<g ref="char:EOLhyphen"/>force the ſeverity of the law in ſuch a caſe to it's utmoſt extent.</p>
                <closer>
                   <signed>Your anſwer, Sir, will determine, <hi>W. STAMFORD.</hi>
@@ -480,7 +481,7 @@ I know not; but as her guardian muſt inform you, that I have a right to claim h
                </closer>
             </div>
             <div type="letter">
-               <pb n="78" facs="tcp:031198_0076_0FEB5044824321D0"/>
+               <pb n="78" facs="unknown:031198_0076_0FEB5044824321D0"/>
                <head>To W. Stamford, Eſq.</head>
                <opener>
                   <dateline>
@@ -495,7 +496,7 @@ I know not; but as her guardian muſt inform you, that I have a right to claim h
                </closer>
             </div>
             <div type="letter">
-               <pb n="79" facs="tcp:031198_0077_0FEB50461A8FBE60"/>
+               <pb n="79" facs="unknown:031198_0077_0FEB50461A8FBE60"/>
                <head>To the Honourable Miſs Townſend.</head>
                <opener>
                   <dateline>
@@ -505,29 +506,29 @@ I know not; but as her guardian muſt inform you, that I have a right to claim h
                <p>THANKS to my father's pru<g ref="char:EOLhyphen"/>dence, or the town might have been obliged with a paragraph in ſome of the news papers, that an extraor<g ref="char:EOLhyphen"/>dinary circumſtance had happened in a certain nobleman's family; a young, and beautiful French wo<g ref="char:EOLhyphen"/>man of diſtinction was on a viſit to them, and having been ſeen by ſome elderly madman who claimed her as his ward, Sir—'s credulity made him believe it was no phantom of the brain, and therefore had gi<g ref="char:EOLhyphen"/>ven her up to the claimant; then would have been added at the end, by the way of aſtoniſhment, O tem<g ref="char:EOLhyphen"/>pora, O mores! Your curioſity is more awakened by the above from me, th<gap reason="illegible: indecipherable" extent="2 letters">
                      <desc>••</desc>
                   </gap> the public's would have been from reading it in the Oracle, Herald, or Woodfall's Diary; ſo
-<pb n="80" facs="tcp:031198_0078_0FEB504C094BEDB8"/>
+<pb n="80" facs="unknown:031198_0078_0FEB504C094BEDB8"/>
 now muſt I begin to elucidate. You are to underſtand, Henry was ſum<g ref="char:EOLhyphen"/>moned to attend poor Montagu, whoſe life was deſpaired of in So<g ref="char:EOLhyphen"/>merſetſhire; as ſoon as we had ſeen him ſet off, Mademoiſelle Chat<g ref="char:EOLhyphen"/>telherhault, accompanied by lady Oſborn, and myſelf, went to take the air in Hyde-Park. An elderly man on horſe-back rode up to the carriage, and ſtaring very hard in, appeared as if on the point of forc<g ref="char:EOLhyphen"/>ing his head through the glaſs. Oh mon Dieu, exclaimed the timorous girl, changing colour. Don't alarm yourſelf, my dear, ſaid my mother, it is cuſtomary in England for gen<g ref="char:EOLhyphen"/>tlemen to behave in ſuch a manner, though it certainly favours of ill manners. Pardon me my dear la<g ref="char:EOLhyphen"/>dy, returned ſhe recovering her<g ref="char:EOLhyphen"/>ſelf, I was terribly afraid he would have broke the carriage window. This paſſed off, and we thought no more of it; in the evening a letter was brought in to Sir John, with
-<pb n="81" facs="tcp:031198_0079_0FEB5050B920C180"/>
+<pb n="81" facs="unknown:031198_0079_0FEB5050B920C180"/>
 word that the ſervant waited for an anſwer. He withdrew to the li<g ref="char:EOLhyphen"/>brary, and Chattelherhault having been unwell the whole day, took the opportunity of retiring to her room; on my father's return he ſhewed us a letter, which muſt cer<g ref="char:EOLhyphen"/>tainly have been written by the man who had behaved ſo rudely in the morning claiming our young viſitant by the name of Beaufoy, and his ward. My mother aſked what anſwer he had returned; he ſaid an aſſurance that he knew not any ſuch perſon. I ſaid I would run up ſtairs and tell my little French girl what an hair breadth eſcape ſhe had had; but my mo<g ref="char:EOLhyphen"/>ther ever careful of preventing uneaſineſs for her friends, was a<g ref="char:EOLhyphen"/>fraid of her being alarmed, and en<g ref="char:EOLhyphen"/>treated I would not inform her of it till ſome time had elapſed; ſo thus reſts this important affair, though if my will had been complied with, I believe for the joke's ſake, inſtead
-<pb n="82" facs="tcp:031198_0080_0FEB5052533B5700"/>
+<pb n="82" facs="unknown:031198_0080_0FEB5052533B5700"/>
 of an anſwer I ſhould certainly have ſent ſome of Monro's people to take charge of him; poſitively the man muſt be mad as a March hare, or he never could have miſtaken our timid little Chattelherhault, for his forward minx Beaufoy.</p>
                <p>Your deſcription of the unfortu<g ref="char:EOLhyphen"/>nate gardening woman ſhocked me to a degree, and I ſhall beg to be your debtor, till we meet, for a couple of guineas, which I deſire you will give her in my name. So you really thought I ſhould laugh at your frank confeſſion; no, no, I will carry it a little farther, by ſup<g ref="char:EOLhyphen"/>poſing if you could not force a de<g ref="char:EOLhyphen"/>luge of tears that you would apply a handkerchief to your eyes, and ſham, rather than not appear hurt at the wretch's neglect of you. Shame on the ſex: well may the men be vain of themſelves, while there are ſuch a number of ſoft, ſighing, what ſhall I call them, fool<g ref="char:EOLhyphen"/>iſh damſels as you in the world,
-<pb n="83" facs="tcp:031198_0081_0FEB50571F9DF6B0"/>
+<pb n="83" facs="unknown:031198_0081_0FEB50571F9DF6B0"/>
 that take pains to convince them of the power they have over them. Silly girls. Why I tell you it is the only way to effect the loſs of your man; a love of roving is in<g ref="char:EOLhyphen"/>herent in the nature of the ſex, and they are as fond of gaining con<g ref="char:EOLhyphen"/>queſts, as e'er a woman of us all. Make it no longer a doubt to any one of them that your affections are fixed on him, oh then he is your very humble ſervant, and prefers his devoirs to ſome other fair. Thus they reward ye. Follow my precepts and obſerve the difference in the behaviour of the lords of the creation towards you. Support your dignity, and ſuffer not the man who has gained your heart to make ſure of it, ſuppoſing he really loves you, is there any harm in keeping him in ſuſpence, till he dares to inſiſt on your naming the time which will make you his. Your wiſe-acre ladyſhip putting on a de<g ref="char:EOLhyphen"/>mure look, will aſk, 'Whether it
-<pb n="84" facs="tcp:031198_0082_0FEB505D0D08B738"/>
+<pb n="84" facs="unknown:031198_0082_0FEB505D0D08B738"/>
 is cuſtomary for a man to go ſo great a length, before he is convin<g ref="char:EOLhyphen"/>ced of a woman's affections being all his own? Simpletonian! Do you imagine that I now for inſtance, would ſuffer any man to dangle af<g ref="char:EOLhyphen"/>ter me as a lover whom I deſpiſed; and are there not ways and means to let the one whom at ſight of your heart beats a ſtrange palpitation, know you have a regard for him, without making it appear that you are deſperately in love? a few en<g ref="char:EOLhyphen"/>couraging ſmiles will inliven his hu<g ref="char:EOLhyphen"/>mour a whole evening: he dreams all night of your beſtowing more favours on him than any other, a<g ref="char:EOLhyphen"/>riſes in the morning, fully perſuad<g ref="char:EOLhyphen"/>ed that you love him, haſtens to at<g ref="char:EOLhyphen"/>tend you, pleaſed in the idea of having as many kind glances be<g ref="char:EOLhyphen"/>ſtowed on him as on the preceding evening. How grievouſly is he baulked; you look cool upon him; he goes home, curſes his ſtars, calls you inhuman, and vows never to
-<pb n="85" facs="tcp:031198_0083_0FEB505EA1A81E90"/>
+<pb n="85" facs="unknown:031198_0083_0FEB505EA1A81E90"/>
 ſubmit to your tyranny more; but ere two days have rolled their cir<g ref="char:EOLhyphen"/>cuit o'er his head, he catches him<g ref="char:EOLhyphen"/>ſelf, ha, ha, ha, in the act of wor<g ref="char:EOLhyphen"/>ſhipping at your ſhrine; and what has effected this change, but his dread of loſing you? Whereas if you had convinced him of his being ſole maſter of your heart, he would have ſhewn his reſentment, by keeping his diſtance a whole fort<g ref="char:EOLhyphen"/>night; well, after a time trifled away in doubts, anxiety, and fears, he determines not to be kept any long<g ref="char:EOLhyphen"/>er in ſuſpence, but puts the queſ<g ref="char:EOLhyphen"/>tion that he may know his doom; and after the marriage-day is fixed, I have no objection to your ſhewing as much love as you think proper; and that woman muſt be deſtitute of every generous principle, who will not ſtrive after having taken a man for better for worſe, to ren<g ref="char:EOLhyphen"/>der home more comfortable to him than any other place can be: though I am ſorry that ſome wives, whoſe
-<pb n="86" facs="tcp:031198_0084_0FEB50604E62F3F0"/>
+<pb n="86" facs="unknown:031198_0084_0FEB50604E62F3F0"/>
 conduct I have obſerved, oblige me to ſay, they have forgotten their duty, with the vow they once made at the altar. Bleſs us what faux pas have I catched myſelf in, the deuce take writing. Moralizing! as I hope to live! Well, well, truth will out one time or other, ſo I will even copy my neighbours, by mak<g ref="char:EOLhyphen"/>ing a <hi>frank confeſſion,</hi> hey, Sophia, that if ever I marry, which the Lord in his infinite mercy ſend I may, I do really and ſincerely be<g ref="char:EOLhyphen"/>lieve, (the declaration muſt be ſo<g ref="char:EOLhyphen"/>lemn you know, by the way of ad<g ref="char:EOLhyphen"/>ding weight to what I advance) if my huſband proves a reaſonable man, that I may in proceſs of time be brought to dwindle as a wife, in<g ref="char:EOLhyphen"/>to what I never will be while a maiden, an amiable piece of ſtill life. Betray me not to the crops of our acquaintance, Oh ye daughter of I know not who, or my triumph will be ended, and my deſign totally ſpoiled before it can be executed;
-<pb n="87" facs="tcp:031198_0085_0FEB506376F6B590"/>
+<pb n="87" facs="unknown:031198_0085_0FEB506376F6B590"/>
 for you are to underſtand, child, I don't mean to make any fooliſh pro<g ref="char:EOLhyphen"/>teſtations of what my intentions are in regard to hereafter, but put the good man to a trial of his confi<g ref="char:EOLhyphen"/>dence in my generoſity, my ho<g ref="char:EOLhyphen"/>nour, and all other et ceteras which appear ſo becoming in a woman; and if I find he is willing to give me my way in trifles, poſſibly I may fall into his humour where things of greater moment are con<g ref="char:EOLhyphen"/>cerned. However for this time I have ſaid enough, and think you will not be ſorry at having finiſhed reading the ſcrawl of,</p>
                <closer>
                   <signed>MATILDA OSBORN.</signed>
                </closer>
             </div>
             <div type="letter">
-               <pb n="88" facs="tcp:031198_0086_0FEB5066788FA510"/>
+               <pb n="88" facs="unknown:031198_0086_0FEB5066788FA510"/>
                <head>To Sir John Oſborn, Bart.</head>
                <opener>
                   <dateline>
@@ -541,7 +542,7 @@ for you are to underſtand, child, I don't mean to make any fooliſh pro<g ref="
                </closer>
             </div>
             <div type="letter">
-               <pb n="89" facs="tcp:031198_0087_0FEB506B0B7B29C8"/>
+               <pb n="89" facs="unknown:031198_0087_0FEB506B0B7B29C8"/>
                <head>To W. Stamford<g ref="char:punc">▪</g> Eſq.</head>
                <opener>
                   <dateline>
@@ -556,7 +557,7 @@ for you are to underſtand, child, I don't mean to make any fooliſh pro<g ref="
                </closer>
             </div>
             <div type="letter">
-               <pb n="90" facs="tcp:031198_0088_0FEB506C9FC4B0C0"/>
+               <pb n="90" facs="unknown:031198_0088_0FEB506C9FC4B0C0"/>
                <head>To the Chevalier Chattelherhault.</head>
                <opener>
                   <dateline>
@@ -564,14 +565,14 @@ for you are to underſtand, child, I don't mean to make any fooliſh pro<g ref="
                   </dateline>
                </opener>
                <p>IF ever you wiſhed to do me a kindneſs, Chattelherhault, it muſt be proved now; that libidinous old dog, Mademoiſelle Beaufoy's guar<g ref="char:EOLhyphen"/>dian, has taken the opportunity while I was out of town, attending Jack Montague who has had a vio<g ref="char:EOLhyphen"/>lent fit of illneſs, of writing to Sir John, and claiming her as his ward, who had eloped from him at Dover; my father declined receiving his vi<g ref="char:EOLhyphen"/>ſit till my return, and I have inſiſt<g ref="char:EOLhyphen"/>ed on her not being made acquaint<g ref="char:EOLhyphen"/>ed with it, conſequently his not be<g ref="char:EOLhyphen"/>ing permitted to ſee her, till your arrival in England. The dear girl has ſome time paſt been impatient to return to the continent. She has a friend at St. Omer's, ſhe ſays, who is able, from her alli<g ref="char:EOLhyphen"/>ance with people of conſequence,
-<pb n="91" facs="tcp:031198_0089_0FEB506FC0A5D138"/>
+<pb n="91" facs="unknown:031198_0089_0FEB506FC0A5D138"/>
 to protect her againſt all Stamford's ſtratagems; her name is D' Aubigny, poſſibly you have ſome knowledge of her, I have detained the ſuffer<g ref="char:EOLhyphen"/>ing charmer here thus long, in the hope that circumſtances might turn out favourably and Mademoi<g ref="char:EOLhyphen"/>ſelle Beaufoy have become my wife; the dear illuſive hope muſt now be baniſhed, and whatever it coſts me, ſhe ſhall return virtuous to her friend, and may make ſome other man more happy than I can ever be after it. Do you not know ſome one in whom you dare con<g ref="char:EOLhyphen"/>fide the ſecret? If ſo, bring them with you, to atteſt ſhe is your ſiſter. In an injured orphan's cauſe, let us leave no one thing unaccompliſhed to defend it. Let your haſte to England be the proof of your friend<g ref="char:EOLhyphen"/>ſhip to,</p>
                <closer>
                   <signed>HENRY OSBORN.</signed>
                </closer>
             </div>
             <div type="letter">
-               <pb n="92" facs="tcp:031198_0090_0FEB5077178CF228"/>
+               <pb n="92" facs="unknown:031198_0090_0FEB5077178CF228"/>
                <head>To Mademoiſelle D' Aubigny.</head>
                <opener>
                   <dateline>
@@ -581,13 +582,13 @@ to protect her againſt all Stamford's ſtratagems; her name is D' Aubigny, poſ
                <p>NOW, and not till now, has the meaſure of my woes been com<g ref="char:EOLhyphen"/>pleated. Oſborn has juſt left my room; from him I learn, that in<g ref="char:EOLhyphen"/>ſtead of haſtening to my deareſt Marianne I muſt remain a priſoner in this nation: deteſtable place, how I hate it: have I not cauſe, on reflect<g ref="char:EOLhyphen"/>ing that the ſource of all my wretch<g ref="char:EOLhyphen"/>edneſs originated in it? Stamford, too, has diſcovered me, and I have been demanded of Sir John.—Mr. Oſborn has written to the Chevalier to haſten here, and own me for his ſiſter: if he refuſes, never more may you expect to ſee me; ſhame will put an end to that life which miſfortune has rendered tireſome. Surely my fate is hard, born in ſorrow as I may ſay, foſtered in af<g ref="char:EOLhyphen"/>fliction, is it not enough that my <gap reason="illegible: indecipherable" extent="2 letters">
                      <desc>••</desc>
                   </gap>per years are corroded by anguiſh,
-<pb n="93" facs="tcp:031198_0091_0FEB5078AC8FF198"/>
+<pb n="93" facs="unknown:031198_0091_0FEB5078AC8FF198"/>
 but I muſt fall a prey to the ſevereſt trial, that art, villany, and malice, can inflict. The nobly generous Oſborn does every thing in his power to afford me conſolation, he ſays the Chevalier has it not in his nature to refuſe any requeſt which he makes, but is not the one he has now made what he cannot in honour comply with? too certainly it is; he bids me aſſume a placid countenance on Stamford's appear<g ref="char:EOLhyphen"/>ance, and all will end well. Does he think that one raſh ſtep has ren<g ref="char:EOLhyphen"/>dered me callous to ſhame? God forbid it ſhould, rather let me ſink into miſery, like one who is conſci<g ref="char:EOLhyphen"/>ous of her guilt, than juſtly incur an accuſation which I cannot think of without horror. Would that you were by to ſupport my cauſe, I could then throw my ſelf at Lady Oſborn's feet, confeſs my error and plead for forgiveneſs; but now friendleſs and unprotected, my thoughts wander to recollect ſome perſon to whom I may apply; but
-<pb n="94" facs="tcp:031198_0092_0FEAF6E57B793C28"/>
+<pb n="94" facs="unknown:031198_0092_0FEAF6E57B793C28"/>
 chilled in the knowledge that there is not one, they return, and ſink in<g ref="char:EOLhyphen"/>to a ſtate of torpidity to which mad<g ref="char:EOLhyphen"/>neſs is ſurely preferable. Oh, my mother! why was I permitted to remain on earth, if only to be af<g ref="char:EOLhyphen"/>flicted worſe than you were? I ſcarcely know what I have written. Marianne, but I am intent on com<g ref="char:EOLhyphen"/>plaining to you, who are at too great a diſtance to afford conſolation, and uttering an apoſtrophe to my dear mother's ſhade, which I ſeem to ſee hovering over and lamenting the fate of her unfortunate child. Well, but I have been very ill, and may not the knowledge of what I am doom'd to ſuffer conduce to the termination of my exiſtence, and that will prevent way ſhame; if it ſhould, Marianne, you muſt not grieve for my loſs, but comfort yourſelf in the hope that I am hap<g ref="char:EOLhyphen"/>py. Do you think my death would becauſe for concern to Mr. Oſborn? I do not wiſh him to be very much
-<pb n="95" facs="tcp:031198_0093_0FEB507EB90E9140"/>
+<pb n="95" facs="unknown:031198_0093_0FEB507EB90E9140"/>
 afflicted, but methinks if he would ſhed a tear o'er my grave, as a re<g ref="char:EOLhyphen"/>membrancer that he had once known me I could more readily ſubmit to death now, than live half a century longer the happieſt of hu<g ref="char:EOLhyphen"/>man ſouls, if I thought he would forget, and not lament me then. Miſs Oſborn too, I flatter myſelf, my memory will not be hateful to her. Indeed you muſt not think hardly of that young lady; ſhe is the counterpart of her dear brother; accuſtomed from her infancy, I am ſure, to be beloved, ſhe is at peace with herſelf, and in good humour with the world; ſhe is young, has ne<g ref="char:EOLhyphen"/>ver been known to misfortune, and wants not for vivacity. I was once lively, but wretchedneſs became my inmate and has taken entire poſ<g ref="char:EOLhyphen"/>ſeſſion of my breaſt I have given-up even the hope of meeting with my father, while life remains I muſt be dependent on you; ſhould the Almighty power ſnatch that pro<g ref="char:EOLhyphen"/>tection
-<pb n="96" facs="tcp:031198_0094_0FEB5081C07631D0"/>
+<pb n="96" facs="unknown:031198_0094_0FEB5081C07631D0"/>
 from me Stamford will re<g ref="char:EOLhyphen"/>new his perſecution. I cannot pro<g ref="char:EOLhyphen"/>ceed, horror has chilled my every nerve; but while reſpiration is al<g ref="char:EOLhyphen"/>lowed me, I muſt ever remain your affectionate, though wretched,</p>
                <closer>
                   <signed>D' ARCY BEAUFOY.</signed>
@@ -596,11 +597,11 @@ from me Stamford will re<g ref="char:EOLhyphen"/>new his perſecution. I cannot 
             <div type="letter">
                <head>To Henry Oſborn, Esq.</head>
                <p>WHAT a devil of a rout you ſerious fellows make about a virtu<g ref="char:EOLhyphen"/>ous woman, as you call a girl who is unwilling to run into your arms be<g ref="char:EOLhyphen"/>fore you have begun the attack; ply the ſex cloſely, there is not one of them from the arranteſt coquette in nature, to the demureſt prude a<g ref="char:EOLhyphen"/>mong them, but will ſurrender at diſcretion; and where a man does not accompliſh his deſigns, it is more owing to his want of patience,
-<pb n="97" facs="tcp:031198_0095_0FEB5084C2097FE8"/>
+<pb n="97" facs="unknown:031198_0095_0FEB5084C2097FE8"/>
 than any rare prudence on the woman's part. I am deep read in all their tricks and ſubterfuges, and from perſevering in purſuit of the game, have never yet been obliged to give out, till it was run down; why you might eaſily have pre<g ref="char:EOLhyphen"/>vented the preſent row, by taking the girl to a bagnio; ſhe, as a ſtranger, could not have known the difference between that and your father's houſe; the family might have been out of town, not expecting your return ſo ſoon, and the critical moment been ſeized on, ſhe would gladly have acceded to terms; you have hired private lodg<g ref="char:EOLhyphen"/>ings for her, and the whole pro<g ref="char:EOLhyphen"/>greſs of the amour had ended by this time. Seriouſly though, for I know you will curſe my inhu<g ref="char:EOLhyphen"/>manity on reading the above, you are the only man living for whom I would riſque my honour by lying through thick and thin to a whole nation, as it is moſt likely I ſhall
-<pb n="98" facs="tcp:031198_0096_0FEB50866682DF18"/>
+<pb n="98" facs="unknown:031198_0096_0FEB50866682DF18"/>
 have to do on this occaſion; yet what I ſhall find much more diffi<g ref="char:EOLhyphen"/>cult, will be ſilencing my ſiſter's complaints of being confined ſo much longer at our chateau than ſhe expected; but as her appearance in England would play the devil, by marring our plot, I intend to quit France without her knowledge. You ſay Mademoiſelle Beaufoy is known to Mademoiſelle D'Aubigny. I am acquainted with a relation of that lady's, and would not heſitate in ſtriving to ſerve any friend of her's; ſo the firſt fair wind waſts me to Albion's white cliffs. As national politeſſe will not be re<g ref="char:EOLhyphen"/>quiſite in my rencontre with the old raſcal, I am practiſing a few I riſh airs, ſuch as looking big, cocking my hat fiercely, ſtrutting boldly, putting myſelf in a menacing poſ<g ref="char:EOLhyphen"/>ture to demand ſatisfaction. Don't you think, Oſborn, that this en ca<g ref="char:EOLhyphen"/>valier behaviour will be quite com<g ref="char:EOLhyphen"/>me il faut? I am now going to tell
-<pb n="99" facs="tcp:031198_0097_0FEB508C4798B3C0"/>
+<pb n="99" facs="unknown:031198_0097_0FEB508C4798B3C0"/>
 a devil of a lie to my ſiſter, and take the route to Calais:</p>
                <closer>
                   <signed>Adieu, au revoir. <hi>L. CHATTELHERHAULT.</hi>
@@ -615,11 +616,11 @@ a devil of a lie to my ſiſter, and take the route to Calais:</p>
                   </dateline>
                </opener>
                <p>YOUR laſt has almoſt broken my heart. I can ſcarce ſee the letters I write for the tears which force their way in ſpite of all my endea<g ref="char:EOLhyphen"/>vours to repreſs them. What have you not ſuffered in that vile Eng<g ref="char:EOLhyphen"/>land? but what agitation, what diſtreſs infinitely more, will you have to combat with, as the time approaches for your facing the worſt of villains; your emotion muſt be<g ref="char:EOLhyphen"/>tray you to Sir John's family, and
-<pb n="100" facs="tcp:031198_0098_0FEB51478AA05640"/>
+<pb n="100" facs="unknown:031198_0098_0FEB51478AA05640"/>
 the wretch will triumph in your downfal: no friends in the nation to whom you can flee for protection. What muſt become of you? I trem<g ref="char:EOLhyphen"/>ble at conſequences which are like<g ref="char:EOLhyphen"/>ly to enſue; and am determined to loſe not a moment in haſtening to your relief. Your wiſh that I were by to ſupport your cauſe, ſhall not prove unpropitious. Yes, I will obey the call of anguiſh, and ſnatch you from deſpair. You ſhall yet enjoy happineſs without alloy, and claim the reward due to injured virtue. Don't give way to dejection, nor ſuffer deſpondency to gain an aſcendant over your mind. Believe me, when the trying moment ar<g ref="char:EOLhyphen"/>rives, you will find yourſelf equal to the conteſt. That Superior Pow<g ref="char:EOLhyphen"/>er, which is appointed to guard, is more watchful of our welfare at the moment Hope is forſaking us, and brings to our reſcue, heart-felt joy from the quarter in which we look only for deſpair. Imagination
-<pb n="101" facs="tcp:031198_0099_0FEAF6ED04DB7438"/>
+<pb n="101" facs="unknown:031198_0099_0FEAF6ED04DB7438"/>
 has portrayed to your mind's view a ſcene truly terrific, to avoid which you are welcoming death, and cruelly charge me not to grieve for your loſs, while you are wiſh<g ref="char:EOLhyphen"/>ing Mr. Oſborn to be ſuſceptible of that ſympathy which you intreat I will diveſt myſelf of. Were it not for the known certainty of your be<g ref="char:EOLhyphen"/>ing too wretched at the time you were writing to attend to circum<g ref="char:EOLhyphen"/>ſtances, I ſhould be half inclined to be angry with you; however, I conjure you, as you value my fu<g ref="char:EOLhyphen"/>ture quiet, to ſupport your ſpirits. I ſhall be in England poſſibly as ſoon as this reaches you; after that I will bid defiance to every attempt on your honour. The poſt is going out, and I cannot add more than that you know my rank has ren<g ref="char:EOLhyphen"/>dered me intimate with ſome of the firſt Engliſh families. I ſhall avail myſelf of ſuch a fortunate circum<g ref="char:EOLhyphen"/>ſtance, and you may depend on ſee<g ref="char:EOLhyphen"/>ing me before your interview with
-<pb n="102" facs="tcp:031198_0100_0FEB508DDA89ABB0"/>
+<pb n="102" facs="unknown:031198_0100_0FEB508DDA89ABB0"/>
 Stamford takes place. I remain your ſincere and unalterable friend;</p>
                <closer>
                   <signed>MARIANNE D'AUBIGNY.</signed>
@@ -633,31 +634,31 @@ Stamford takes place. I remain your ſincere and unalterable friend;</p>
                   </dateline>
                </opener>
                <p>PRAY, child, are you fond of be<g ref="char:EOLhyphen"/>ing preſent at a grand quarrel be<g ref="char:EOLhyphen"/>tween the French and Engliſh, where the latter ſtand a chance of being well drubbed? if you are, Hey for London town. Poſitively, though, the man whoſe claim I treated in ſo ludicrous a manner in my laſt, has renewed it, and actu<g ref="char:EOLhyphen"/>ally inſiſted on my father's reſign<g ref="char:EOLhyphen"/>ing the charge of Chattelherhault up to him, or proving that her name was not Beaufoy and his
-<pb n="103" facs="tcp:031198_0101_0FEB50914457FBF8"/>
+<pb n="103" facs="unknown:031198_0101_0FEB50914457FBF8"/>
 ward. To do this effectually the Chevalier's preſence was neceſſary, and Henry diſpatched an expreſs for him. So out of evil ſpringeth good. The dear charming man ar<g ref="char:EOLhyphen"/>rived this evening, my heart leaped when the poſt-chaiſe ſtopt at the door; but when he entered the room, oh what joy ſeized it, in the hope of his becoming the moſt ab<g ref="char:EOLhyphen"/>ject of my ſlaves;—me-thought his ſentimental ſiſter hardly received him with a <hi>ſiſterly affection.</hi> Moſt likely her langour proceeded from the illneſs ſhe has had; but I am ſure, was I dying, the ſight of ſuch an affectionate brother as he appears would infuſe freſh vigour through<g ref="char:EOLhyphen"/>out my frame, and recal my ſoul to earth, if winging it's flight to<g ref="char:EOLhyphen"/>wards the ethereal regions. Abſo<g ref="char:EOLhyphen"/>lutely a body would ſuppoſe he had thrown aſide the brother, for the more tender character of a lover<g ref="char:punc">▪</g> if the Chevalier can behave ſo po<g ref="char:EOLhyphen"/>litely attentive as a brother, what
-<pb n="104" facs="tcp:031198_0102_0FEB50930995E738"/>
+<pb n="104" facs="unknown:031198_0102_0FEB50930995E738"/>
 would you not give, Sophia, to have him for an admirer? In ſhort, my breaſt has taken the alarm, and cautions it's colleague the heart, to beat to arms, to be enabled to ſtand the attack of an invaſion; for where a ſhot cannot prevail, the French have a knack of levying a whole volley; don't miſtake by imagining courage is meant inſtead of ſighs, and think it will be prudent to place the centinel <hi>apprehenſion</hi> as guard, becauſe there is a ſtrong pro<g ref="char:EOLhyphen"/>bability of ſuch a man's being en<g ref="char:EOLhyphen"/>gaged. Thus ſpeaks reaſon; but a faithful heart replies, that life is nothing without love, and it would not be exempt from the paſſion to obtain a univerſe, where it was not to gain admiſſion, at the ſame time reminds it's adviſer, that love in the image of one clothed in friend<g ref="char:EOLhyphen"/>ſhip's ſacred garb, had crept through an avenue to it's utmoſt receſs, unreſiſted by her at the moment he had raiſed his throne on the firmeſt baſis— Eſteem—before even
-<pb n="105" facs="tcp:031198_0103_0FEB5098EE33BE58"/>
+<pb n="105" facs="unknown:031198_0103_0FEB5098EE33BE58"/>
 her penetration could diſcover it, he reigned triumphant, and now would not give up his claim on the whole, though the endeavour of all her allies united were to ſtrive to hurl him from it. I have written myſelf into that ſoftened kind of diſpoſition in which I cannot pro<g ref="char:EOLhyphen"/>ceed with my uſual vivacity, and muſt reſign the pen till morning.</p>
                <p>**** here I am, returned with a freſh ſupply of animation at com<g ref="char:EOLhyphen"/>mand; but as I am to proceed me<g ref="char:EOLhyphen"/>thodically it ſhall lay dormant, while I tell you this all captivating hero informed his ſiſter that expect<g ref="char:EOLhyphen"/>ing to find letters at the poſt-houſe, on his landing at Dover, he had ſent his ſervant to enquire if there were any directed to him, and was agree<g ref="char:EOLhyphen"/>ably ſurpriſed on receiving one from Mademoiſelle D'Aubigny 'Sacre Dieu!' (exclaimed ſhe claſp<g ref="char:EOLhyphen"/>ing her hands as if in the agony of deſpair,) 'ſurely Marianne will not, ſhe cannot determine to give up my
-<pb n="106" facs="tcp:031198_0104_0FEB509A846EA0D8"/>
+<pb n="106" facs="unknown:031198_0104_0FEB509A846EA0D8"/>
 cauſe, when it ſtands moſt in need of her aſſiſtance.' Henry looked, I thought, confuſed, while the Che<g ref="char:EOLhyphen"/>valier, making a motion of putting his hand on her mouth, cried, 'Huſh, am not I your brother, and able to protect you?' O, no, no, (ſaid ſhe, burſting into tears,) Ma<g ref="char:EOLhyphen"/>rianne alone can protect, ſupport and ſave me; if ſhe has deſerted me, the whole world cannot afford con<g ref="char:EOLhyphen"/>ſolation.' 'Permit me to aſſure you, interrupted he, that Mademoiſelle D'Aubigny is now in England. I waited on her in my way hither, and ſhe comiſſioned me to preſent this letter.' Which he gave her with the moſt gallant air imaginable. She ſnatched it eagerly, kiſſed it fervently, and held it to her breaſt the ſpace of five minutes, while her expreſſive eyes were turned towards heaven in the attitude of thankſgiving; on a ſudden they rol<g ref="char:EOLhyphen"/>led, her looks were wild; ſhe kiſſ<g ref="char:EOLhyphen"/>ed the letter once more, and ſunk
-<pb n="107" facs="tcp:031198_0105_0FEB509DEA855488"/>
+<pb n="107" facs="unknown:031198_0105_0FEB509DEA855488"/>
 into an alarming ſtupor. Terrified at the change, I rung the bell for aſſiſtance, while my mother applied a ſmelling bottle to her noſe, which was not potent enough to prevent violent hyſterics—Horror was ſtrongly imprinted on the counte<g ref="char:EOLhyphen"/>nance of the Chevalier; but Henry raved, he acknowledged his love for her, and vowed to take ample revenge on the villain who had oc<g ref="char:EOLhyphen"/>caſioned her pain. Murder will out, you find, one time or other; till then he had the confidence to deny the power the deity had gain<g ref="char:EOLhyphen"/>ed over him. However the dear girl was recovered and put to bed, and this morning is charmingly. It ſeems this Mademoiſelle D'Aubigny is a friend with whom ſhe was edu<g ref="char:EOLhyphen"/>cated at a convent and ſo firm is their affection towards each other, that it is generally ſuppoſed if any misfortune happened to one it would be an infallible means of breaking the heart of her friend, and in her
-<pb n="108" facs="tcp:031198_0106_0FEB509FAB0686C0"/>
+<pb n="108" facs="unknown:031198_0106_0FEB509FAB0686C0"/>
 letter to her brother ſhe entreated he would bring her over with him, and then ſhe was certain of being ſe<g ref="char:EOLhyphen"/>cured from the vile Engliſhman; for Marianne would rather die than ſuffer him to have her. Poor thing, her terror would not give her leave to reflect that if her brother thought proper to give her up, not all Ma<g ref="char:EOLhyphen"/>demoiſelle D'Aubigny's endeavours could prevent the Engliſhman's hav<g ref="char:EOLhyphen"/>ing her. However her friend paid her a viſit this morning, ſhe receiv<g ref="char:EOLhyphen"/>ed her alone in her dreſſing room, and ſoon after my mother and ſelf were admitted, and introduced to her, the Chevalier and Henry join<g ref="char:EOLhyphen"/>ed us, and the converſation ſoon became lively and entertaining; for Chattelherhault having her ſiſter excellence preſent, ſtrove to emu<g ref="char:EOLhyphen"/>late, and quite outdid herſelf; ne<g ref="char:EOLhyphen"/>ver, after having ſeen theſe two women together, dare I venture to think ſo highly of myſelf, as va<g ref="char:EOLhyphen"/>nity taught me I might; would you
-<pb n="109" facs="tcp:031198_0107_0FEB50A5951FC6A0"/>
+<pb n="109" facs="unknown:031198_0107_0FEB50A5951FC6A0"/>
 believe, that inſtead of exciting the attention of half the company by my prattle, as I am accuſtomed to do, I was frequently dumb, in the conſciouſneſs of my own inabi<g ref="char:EOLhyphen"/>lity to ſupport any ſhare in a con<g ref="char:EOLhyphen"/>verſation which was entered upon by theſe amiable friends.</p>
                <p>Well, well, I have determined to bid adieu to trifling, and purſue the footſteps of <hi>ſenſe,</hi> till I have gained the track beyond their knowledge. The arduous taſk being compleat<g ref="char:EOLhyphen"/>ed, I'll ſit myſelf down contented in the pleaſure of having quite outrun them; there is an improveable diſ<g ref="char:EOLhyphen"/>poſition for you: abſolutely I have deſcribed the ſpirit of emulation as well in the few preceding lines as if I had taken the trouble of writing a diſſertation on the ſubject. Lord, if thoſe muſty moral writers would but follow my example, inſtead of whole volumes, which they publiſh to teach mankind what all the race knew before was proper, they
-<pb n="110" facs="tcp:031198_0108_0FEB50A7285C1F70"/>
+<pb n="110" facs="unknown:031198_0108_0FEB50A7285C1F70"/>
 would pen a few of their reflecti<g ref="char:EOLhyphen"/>ons on one ſheet of paper; and if the world was determined to be en<g ref="char:EOLhyphen"/>lightened, it would pay more atten<g ref="char:EOLhyphen"/>tion to that ſingle ſheet, than it does at preſent to thouſands of them which are printed daily for it's im<g ref="char:EOLhyphen"/>provement. Now were any of thoſe grave gentry to read what I have written, they would knit their brows, by the way of expreſſing diſapprobation of the theme, and throwing it aſide, with a ſupercili<g ref="char:EOLhyphen"/>ous ſmile, would exclaim, in a tone of contempt,
 <q>Ah that is an opini<g ref="char:EOLhyphen"/>on entertained by a fooliſh wo<g ref="char:EOLhyphen"/>man.</q> (Now raiſing their voices,) <q>How dare a creature, whoſe whole ſex have been denied the gift of ſoul, attempt to decide judgment on our proceedings?</q>
 Fair, and ſoftly, thou boiſterous lords of the creation; admit, as you ſay, women have not a ſoul, yet you cannot deny that they are endued with the ſenſe of ſeeing, of hearing, and talk<g ref="char:EOLhyphen"/>ing,
-<pb n="111" facs="tcp:031198_0109_0FEB50A8C218B670"/>
+<pb n="111" facs="unknown:031198_0109_0FEB50A8C218B670"/>
 conſequently they ſee the world does not grow a whit the better; they frequently hear the moſt ſolid of your arguments turn<g ref="char:EOLhyphen"/>ed into ridicule by your own ſex; and from being indulged with a tongue, have the liberty of pro<g ref="char:EOLhyphen"/>claiming their own thoughts on the ſubject. But if venting their ma<g ref="char:EOLhyphen"/>lignity on your works was half the miſchief created by your ſtriving to inculcate the idea in their mind that none of them are in poſſeſſion of a ſoul, it would by trifling indeed, for as they need not dread the ſame puniſhment that is ſuppoſed to be inflicted on yours in the world which is yet unknown, they natu<g ref="char:EOLhyphen"/>rally imagine the greateſt ſin may be committed without the pain of reflecting, that it muſt be atoned for at the expiration of exiſtence. Half-witted mortals, what an error your infinitude of wiſdom would lead you into! A word to thoſe huſ<g ref="char:EOLhyphen"/>bands who wiſh to prevent the
-<pb n="112" facs="tcp:031198_0110_0FEB50ABCBB53140"/>
+<pb n="112" facs="unknown:031198_0110_0FEB50ABCBB53140"/>
 ſprouting of horns from their fore<g ref="char:EOLhyphen"/>heads, and I have done with the ſubject. If you votaries of Hymen were to take as much pains to con<g ref="char:EOLhyphen"/>vince your wives of their being en<g ref="char:EOLhyphen"/>dowed with half a dozen ſouls, which would be tortured beyond deſcription if they commit a fault, as you take to aſſure them of being perfectly ſoulleſs, a number of di<g ref="char:EOLhyphen"/>vorces might be prevented, and fa<g ref="char:EOLhyphen"/>milies enjoy tranquility, which at preſent know only wretchedneſs. You will not thank me for this di<g ref="char:EOLhyphen"/>greſſion, Sophia; you wiſh to be in<g ref="char:EOLhyphen"/>formed of the Chevalier, and I am leading as wide off the track as if it had never been in my view; but I am moſt intolerably indifferent about the man. And why? becauſe he is not <hi>comeatable.</hi> So, as a friend, I adviſe you to ſecure your traitorous heart from receiving any <hi>indelible impreſſions.</hi> Mademoiſelle D'Aubig<g ref="char:EOLhyphen"/>ny has completed a conqueſt, and you'll be loſt in any attempt to rival
-<pb n="113" facs="tcp:031198_0111_0FEB50B1B5893340"/>
+<pb n="113" facs="unknown:031198_0111_0FEB50B1B5893340"/>
 her. I am now, in haſte, but will renew the ſubject, with an account of the conteſt. Adieu.</p>
             </div>
             <div type="letter">
@@ -669,14 +670,14 @@ her. I am now, in haſte, but will renew the ſubject, with an account of the co
                   <salute>HONOURED MADAM,</salute>
                </opener>
                <p>AS your illneſs prevented your accompanying me to England, I am ſure you are impatient to learn in what manner our amiable little Beaufoy was extricated from the melevolence of her guardian. With my leave, ſhe ſays, ſhe will herſelf inform you of every particular, and I think you will not be concerned, at my reſigning the pen to one who will certainly deſcribe the ſenſati<g ref="char:EOLhyphen"/>ons that ſhe experienced at the time
-<pb n="114" facs="tcp:031198_0112_0FEB50B34B6A35F0"/>
+<pb n="114" facs="unknown:031198_0112_0FEB50B34B6A35F0"/>
 more fully than I can poſſibly do. She is this moment at my elbow, ready to ſnatch it from me, and I cannot refuſe her the pleaſure ſhe has enjoyed by anticipation theſe two days paſt, that of giving her friends aunt a faithful detail of the whole affair.</p>
                <p>My dear Mademoiſelle D'Aubig<g ref="char:EOLhyphen"/>ny has permitted me the honour of writing you an account, Madam, of the rencontre with the cruel man who deſigned my ruin. The day arrived that he expected would con<g ref="char:EOLhyphen"/>ſign the trembling victim to his treacherous charge once more. To prevent it, your affectionate Mari<g ref="char:EOLhyphen"/>anne was in St. James's Square by nine in the morning, as well as to prepare me for the much dreaded ſcene, which was to enſue at twelve. We were to be aſſembled in the drawing-room at eleven, and you may eaſily conceive I was more dead than alive, led into it. Five minutes had ſcarcely eſcapſed when
-<pb n="115" facs="tcp:031198_0113_0FEB50B4E3DF1EE8"/>
+<pb n="115" facs="unknown:031198_0113_0FEB50B4E3DF1EE8"/>
 a Sir Thomas Stuart Morell was an<g ref="char:EOLhyphen"/>nounced. Involuntarily I had caſt my eyes on Mr. Oſborn<g ref="char:punc">▪</g> he was looking at the Chevalier<g ref="char:punc">▪</g> aſtoniſh<g ref="char:EOLhyphen"/>ment and diſtreſs were ſtrongly marked in every lineament of his face. That generous friend ſtrove to correct the look by an encourag<g ref="char:EOLhyphen"/>ing inclination of his head; ariſing at the ſame moment, he went up to Sir Thomas, who not expecting, was ſurprized at meeting with him. Sir John immediately ſaid,
 <q>You have not only the pleaſure of ſee<g ref="char:EOLhyphen"/>ing the Chevalier; but may have the happineſs of converſing with his amiable ſiſter, who has ho<g ref="char:EOLhyphen"/>noured us by her viſit likewiſe.</q>
 I had put on a bonnet with a veil, that whatever change my looks aſ<g ref="char:EOLhyphen"/>ſumed might not be ſo readily no<g ref="char:EOLhyphen"/>ticed. Sir Thomas, with a familiar ſmile, began congratulating himſelf on the unexpected felicity of ſeeing me in England; as he approached the ſmile vaniſhed, and a look of
-<pb n="116" facs="tcp:031198_0114_0FEB50B7EA603C70"/>
+<pb n="116" facs="unknown:031198_0114_0FEB50B7EA603C70"/>
 ſurprize was conſtituted in it's ſtead, as Miſs Oſborn, giving me a pat on the ſhoulder, in her lively manner, aſked,
 <q>whether I had forgot my old friend, Sir Thomas?</q>
 The Chevalier gave not any of us time to reply, for catching him by the arm haſtily, ſaid,
@@ -684,32 +685,32 @@ The Chevalier gave not any of us time to reply, for catching him by the arm haſ
 and pulling him out of the room, exclaimed,
 <q>This na<g ref="char:EOLhyphen"/>tional ſpirit of liberty has derang<g ref="char:EOLhyphen"/>ed his affairs moſt damnably.</q>
 I do not repeat this from my own know<g ref="char:EOLhyphen"/>ledge of it's having been ſaid, Ma<g ref="char:EOLhyphen"/>dam, but from what your dear niece has ſince told me, for ſeated between her and Miſs Oſborn, it was with the utmoſt difficulty I could ſupport
-<pb n="117" facs="tcp:031198_0115_0FEB50BAF1598B80"/>
+<pb n="117" facs="unknown:031198_0115_0FEB50BAF1598B80"/>
 myſelf from fainting, while ſhe in Spa<g ref="char:EOLhyphen"/>niſh, which none of the family, Mr. Oſborn excepted, underſtood, told me, I need not fear a diſcovery, un<g ref="char:EOLhyphen"/>leſs I ſuffered my own emotion to betray me. The Chevalier, and Sir Thomas had been abſent ten minutes, when the parlour bell was rung, and a ſervant ſent to ſay the favour of my company was deſired by the gentlemen, I aroſe, and but for Mr. Oſborn, who immedi<g ref="char:EOLhyphen"/>ately offered his hand to lead me down ſtairs, I muſt have fallen; my legs trembled, and I tottered; ſtrength had nearly forſaken me; he ſaw Sir John's eyes were on me, and ſaid,
 <q>I wiſh this ſaid madman had given us his viſit, if he intends it; you know your brother's pre<g ref="char:EOLhyphen"/>ſence can ſecure you againſt what<g ref="char:EOLhyphen"/>ever he may urge, and yet I ſee fear reigns predominant in your mind till the expected interview is over.</q>
 Lady Oſborn is one of the moſt affectionately tender, wo<g ref="char:EOLhyphen"/>men
-<pb n="118" facs="tcp:031198_0116_0FEB50C0D2D0DD30"/>
+<pb n="118" facs="unknown:031198_0116_0FEB50C0D2D0DD30"/>
 in nature; ſhe ſaid every thing which ſhe thought would quiet my apprehenſions, while her charming daughter expreſſed her ſurprize at my timidity, and her ſon conduct<g ref="char:EOLhyphen"/>ed me to the parlour. Sir Thomas bowed on my entrance. I burſt in<g ref="char:EOLhyphen"/>to tears, he came towards me, and taking one hand while Mr. Oſborn held the other, ſaid, 'Will you ex<g ref="char:EOLhyphen"/>cuſe me, Madam?' 'Pardonnez moi, Monſieur,' interrupted the ſpright<g ref="char:EOLhyphen"/>ly Frenchman, ſnatching it from him:
 <q>no, curſe me if ſhe ſhall. Do you know, my lovely ſiſter, he refuſes to acknowledge you as ſuch? and pleads his long friend<g ref="char:EOLhyphen"/>ſhip with Sir John, as a ſufficient excuſe for diſobliging the moſt charming woman in the world, and I have ſent for you to try, what your own eloquence can do, as mine does not ſeem to prevail.</q>
 Never in my life was I aſſiſted with ſo much fortitude as at that mo<g ref="char:EOLhyphen"/>ment; the big tears, that were cha<g ref="char:EOLhyphen"/>ſing
-<pb n="119" facs="tcp:031198_0117_0FEB50C267AD3DE8"/>
+<pb n="119" facs="unknown:031198_0117_0FEB50C267AD3DE8"/>
 each other down my cheeks, forcing a channel through the eyes, ſorbore to flow, my countenance aſſumed ſerenity, my voice became clear, my tone unbroken by ſorrow, and I replied with energy,
 <q>I thank you, Sir, for the kindneſs of your intentions towards me, my preſent concern is, that it never will be in my power to repay the moſt trivi<g ref="char:EOLhyphen"/>al part of the obligations you have conferred—You, Sir, (ſaid I, turning to the baronet and curtſying) will oblige me to revere you, though a refuſal of the Chevalier's requeſt may claſh with my preſent intereſt. Yet your noble attachment to Sir John Oſborn, and ſtrict adherence to truth, actuates at this moment, and ever will, to demand that tri<g ref="char:EOLhyphen"/>bute of me; continue to cheriſh the ſentiments you have imbibed, and no circumſtance can tend to make your future days unhappy. Would to heaven I had been as much averſe to committing an er<g ref="char:EOLhyphen"/>ror,
-<pb n="120" facs="tcp:031198_0118_0FEB50C46506F548"/>
+<pb n="120" facs="unknown:031198_0118_0FEB50C46506F548"/>
 as you are tenacious of being led into one, I had not felt at this moment the keen ſeverity of be<g ref="char:EOLhyphen"/>ing completely wretched. In<g ref="char:EOLhyphen"/>diſcretion has in ſome degree add<g ref="char:EOLhyphen"/>ed to it, though I have yet the ſe<g ref="char:EOLhyphen"/>cret ſatisfaction of knowing my<g ref="char:EOLhyphen"/>ſelf innocent of any capital crime. I mean not by what I have advanc<g ref="char:EOLhyphen"/>ed to excite your compaſſion, or create emotion for the finer feel<g ref="char:EOLhyphen"/>ings to operate on, by giving a detail of the ill uſage I have ſuſtain<g ref="char:EOLhyphen"/>ed from the man on whom the care of me devolved on the demiſe of a tender parent. It will be ſufficient if my entreaties are ſuf<g ref="char:EOLhyphen"/>fered to prevail, that you will not ſtrive to render Mr. Oſborn's con<g ref="char:EOLhyphen"/>duct criminal in the eyes of his fa<g ref="char:EOLhyphen"/>mily; the motive for introducing me to it as Mademoiſelle Chattel<g ref="char:EOLhyphen"/>herhault, was of the moſt delicate nature; could I be allowed time to acquaint you with it now, I am fully perſuaded from a certain
-<pb n="121" facs="tcp:031198_0119_0FEB50CA58F484F0"/>
+<pb n="121" facs="unknown:031198_0119_0FEB50CA58F484F0"/>
 rectitude that appears to guide your every thought, you would admire with infinitely more en<g ref="char:EOLhyphen"/>thuſiaſm, than you at preſent con<g ref="char:EOLhyphen"/>demn him. I ſhall be content to endure the ſtigma ſo long as the odium can be kept from him: It is I alone am blamable, and no other ought to ſuffer for my folly.</q>
 'Stop, Madam,' (interrupted he)
 <q>the woman that ſo generouſly ſtrives to draw cenſure on herſelf, by retorting the ball from him who alone has erred, has made for her<g ref="char:EOLhyphen"/>ſelf a more ſtrenuous friend in my boſom than I find myſelf in<g ref="char:EOLhyphen"/>clinable to acknowledge; but I muſt do myſelf and you the juſtice to ſay, that ſhe who entertains ſuch exalted ſentiments cannot be deſtitute of principle; and, if I might truly aſſure myſelf that your virtue was unſullied, there is not that trial in the world, I would not chearfully eſſay to preſerve it ſo.</q>
 'Moſt generous of men,' exclaimed
-<pb n="122" facs="tcp:031198_0120_0FEB50CBEC2BA1E8"/>
+<pb n="122" facs="unknown:031198_0120_0FEB50CBEC2BA1E8"/>
 I, burſting into tears, (unexpected kindneſs diſarmed that fortitude which apparent ſeverity had given ſtrength to)
 <q>my virtue has ever been invulnerable, elſe I had not had occaſion to appear to you at preſent as a ſuſpicious character.— My converſation muſt appear e<g ref="char:EOLhyphen"/>nigmatical to you likewiſe; to ſolve it in ſome degree, know, it is for the preſervation of my honour I am indebted to this beſt of men; the one who is expected to claim would baſely have deprived me of it, had not he ſtept forth the cham<g ref="char:EOLhyphen"/>pion of injured innocence.</q>— 'Enough, Madam,'(ſaid he) <q>I find you have been left to the care of a villain; ſuch a circumſtance too frequently proves the fatal bane of numbers. Mr. Oſborn has act<g ref="char:EOLhyphen"/>ed from motives of humanity. I will aſſiſt him in ſupporting your cauſe with my utmoſt intereſt. But why not have entruſted the ſecret to Lady Oſborn? Or, if you
-<pb n="123" facs="tcp:031198_0121_0FEB50CF0A81E548"/>
+<pb n="123" facs="unknown:031198_0121_0FEB50CF0A81E548"/>
 had not courage to acquaint her with it, Miſs Oſborn I am ſure would not have abuſed your con<g ref="char:EOLhyphen"/>fidence. She is a charming girl; her vivacity is tinctured with ex<g ref="char:EOLhyphen"/>quiſite ſenſibility, and ſhe would have done the utmoſt in her pow<g ref="char:EOLhyphen"/>er to ſerve you. Never yet was ſhe known to turn a deaf ear to the tale of ſorrow, or diſregard the tears of a daughter of affliction; however, talking of what might have been effected is loſing time; we muſt now turn our thoughts on what is likely to prove moſt advantageous.</q>
 He ſtopt, expect<g ref="char:EOLhyphen"/>ing an anſwer. Mr. Oſborn and the Chevalier were denied by ſur<g ref="char:EOLhyphen"/>prize the power of articulation, while I ſobb'd aloud in giving my gratitude vent. 'Come,' ſaid he, breaking ſilence,
 <q>I find you are not prepared with an expedient, and it is now too late to make ma<g ref="char:EOLhyphen"/>ny propoſitions. I can only ſay, if the wretch ſhould bring preſump<g ref="char:EOLhyphen"/>tive
-<pb n="124" facs="tcp:031198_0122_0FEB50D2148839C0"/>
+<pb n="124" facs="unknown:031198_0122_0FEB50D2148839C0"/>
 proofs of your being his ward, which is to be apprehended, and Sir John abandons you to his care, my doors ſhall be open to afford you an aſylum.</q>
 Interrupting him, Mr. Oſborn haſtily ſaid,
 <q>I thank you, Sir, in my own, and the La<g ref="char:EOLhyphen"/>dy's name, for your proffered kind<g ref="char:EOLhyphen"/>neſs, but ſhe has a friend above who will hardly allow her to ac<g ref="char:EOLhyphen"/>cept it.</q>
@@ -720,7 +721,7 @@ aſked the Baronet, looking ſternly at him.
 (turning to me,)
 <q>mine may be commanded to add force to it.</q>
                   <q>Oh, Sir Thomas, your goodneſs has made bankrupt my gratitude; words are too poor to expreſs my ſenſe of ſuch exceſs of friendſhip, and I muſt be ſilent in the conſciouſneſs of an inability to
-<pb n="125" facs="tcp:031198_0123_0FEB50D52661AB18"/>
+<pb n="125" facs="unknown:031198_0123_0FEB50D52661AB18"/>
 ſpeak.</q>
                   <q>To effect the ſilence which will ſend us up to the la<g ref="char:EOLhyphen"/>dies,</q>
 ſaid the Chevalier with an air of gaiety,
@@ -731,28 +732,28 @@ aſked the Baronet, looking ſternly at him.
 cried Sir Thomas,
 <q>and I don't think it a bad one, if we re<g ref="char:EOLhyphen"/>flect, it's moſt likely the family will wonder at our long abſence: allow me, Madam,</q>
 (offering his hand) 'to lead you up ſtairs.' We had hardly got into the drawing-room before a loud rap at the door warned us of our viſitant's approach; my newly acquired friend led me to a ſeat next Mademoiſelle D'Au<g ref="char:EOLhyphen"/>bigny, and took himſelf the vacant one on the other ſide of me. The
-<pb n="126" facs="tcp:031198_0124_0FEB50D82549D278"/>
+<pb n="126" facs="unknown:031198_0124_0FEB50D82549D278"/>
 ſound of footſteps aſſured me that another moment would preſent my greateſt enemy to view, and totally unconſcious of either words or ac<g ref="char:EOLhyphen"/>tions, I exclaimed, 'Oh ſhield me, heaven,' and caught faſt hold of the Baronet's arm; the Chevalier imme<g ref="char:EOLhyphen"/>diately came acroſs the room.
 <q>Let me conjure you,</q>
 (ſaid he in a half whiſper)
 <q>to recollect I am ſuppoſ<g ref="char:EOLhyphen"/>ed to be your brother; your be<g ref="char:EOLhyphen"/>haviour will not only betray your<g ref="char:EOLhyphen"/>ſelf and me, but ſubject Oſborn to the reproaches of his family.</q>
 The door opened, unheeding what he had juſt ſaid, I gave an involun<g ref="char:EOLhyphen"/>tary ſcream; but it proved to be one of the ſervants, ſent by Stam<g ref="char:EOLhyphen"/>ford to ſay he begged to ſpeak with Sir John in private: the Chevalier objected to his going down to him, ſaid himſelf alone was empowered to ſet matters right, and with leave of the company he ſhould take the liberty of deſiring Mr. Stamford to walk up ſtairs.
 <q>But my dear Che<g ref="char:EOLhyphen"/>valier,
-<pb n="127" facs="tcp:031198_0125_0FEB50DB2483CF10"/>
+<pb n="127" facs="unknown:031198_0125_0FEB50DB2483CF10"/>
 conſider, the ſight of him will occaſion your ſiſter ſo much terror, That door, Sir John, be<g ref="char:EOLhyphen"/>longs to a convenient cloſet. I ſhall beg the favour of Sir Thomas to ſtep in with her, till I require him to bring her forward.</q>
 Happy, you may be aſſured, Madam, I was, at any reprieve, though of the ſhort<g ref="char:EOLhyphen"/>eſt duration. We juſt entered the cloſet as Stamford did the room; and I felt as if I could ſhrink into nothing at the very ſound of his voice. He accoſted Sir John,
 <q>I am ſorry, Sir, to have occaſion<g ref="char:EOLhyphen"/>ed either yourſelf or family any concern on the buſineſs which I am now come: that</q>
 (continued he, looking around the room, and fixing his eyes on Mr. Oſborn)
 <q>is the man with whom my ward e<g ref="char:EOLhyphen"/>loped, and I demand her at his hands.</q>
 Mr. Oſborn reddened, it ſeems, and told him that if he dared to inſiſt on having a Lady with whom he had no right, he would
-<pb n="128" facs="tcp:031198_0126_0FEB50DE26F7C0F8"/>
+<pb n="128" facs="unknown:031198_0126_0FEB50DE26F7C0F8"/>
 lead him out of the houſe by the noſe; and not ſuffering it to reſt there, would make a point of poſt<g ref="char:EOLhyphen"/>ing him in every coffee-houſe about town.
 <q>It is a matter of indiffer<g ref="char:EOLhyphen"/>ence to me, Sir, with whom your ward eloped, ſaid the Chevalier, but I muſt deſire you will be more careful in future of pointing out any relation of mine as a fit object for giving unneceſſary uneaſineſs to, or you will find I am not of ſuch a placid nature, as tamely to put up with an inſult offered to any part of my family, eſpecially where a ſiſter's ſafety is endanger<g ref="char:EOLhyphen"/>ed, my own honour is more nearly concerned to protect it.</q>
                   <q>Pardon me, Sir,</q>
 (replied Stamford)
 <q>for contradicting the aſſertion of mak<g ref="char:EOLhyphen"/>ing a claim on your ſiſter. I have an undoubted right over the lady whom I ſaw in Sir John's carriage, and will maintain that right, in ſpite of your's or that gentleman's threats,</q>
 (extending his hand to<g ref="char:EOLhyphen"/>wards
-<pb n="129" facs="tcp:031198_0127_0FEB50E29A99F790"/>
+<pb n="129" facs="unknown:031198_0127_0FEB50E29A99F790"/>
 Mr. Oſborn)
 <q>to oblige me to relinquiſh it.</q>
 'By G—' (ſaid young Oſborn paſſionately)
@@ -766,7 +767,7 @@ Mr. Oſborn)
 (return<g ref="char:EOLhyphen"/>ed Sir John)
 <q>the ſtory does not ap<g ref="char:EOLhyphen"/>pear probable to me, nor will it I fancy gain credit in any court of equity; therefore you muſt excuſe me, if I ſay your plot ſhould have been deeper laid to enſure ſucceſs.</q>
                   <q>
-                     <pb n="130" facs="tcp:031198_0128_0FEB50E42D934838"/>Sdeath, Sir, I ſcorn your mean in<g ref="char:EOLhyphen"/>ſinuation of my laying a plot; however I came not here to con<g ref="char:EOLhyphen"/>tend, concluding from your rank that your behaviour would be conſiſtent with that of a gen<g ref="char:EOLhyphen"/>tleman's. I have waited on you, that you may take your choice of reſigning the lady quietly, or ſuf<g ref="char:EOLhyphen"/>fering a higher power to wreſt her from you.</q>
+                     <pb n="130" facs="unknown:031198_0128_0FEB50E42D934838"/>Sdeath, Sir, I ſcorn your mean in<g ref="char:EOLhyphen"/>ſinuation of my laying a plot; however I came not here to con<g ref="char:EOLhyphen"/>tend, concluding from your rank that your behaviour would be conſiſtent with that of a gen<g ref="char:EOLhyphen"/>tleman's. I have waited on you, that you may take your choice of reſigning the lady quietly, or ſuf<g ref="char:EOLhyphen"/>fering a higher power to wreſt her from you.</q>
                   <q>I have no right over her, ſhe has a brother, and I am apt to believe if your eloquence was as fluent as Cicero's, it would hardly prevail on him to reſign her.</q>
                   <q>But that brother, as you pleaſe to call him, ſhall be com<g ref="char:EOLhyphen"/>pelled to reſign her very ſhortly.</q>
                   <q>What method will you adopt to oblige him?</q>
@@ -777,7 +778,7 @@ replied he,
                   <q>On the Chancellor's deciſion the cauſe ſhall reſt,</q>
 ſaid Mr. Oſborn:
 <q>his known integrity
-<pb n="131" facs="tcp:031198_0129_0FEB50E769EB6E18"/>
+<pb n="131" facs="unknown:031198_0129_0FEB50E769EB6E18"/>
 will guide him to pronounce judg<g ref="char:EOLhyphen"/>ment againſt a raſcal, though he were to gain the firſt intereſt in the world to back him in an infamous proſecution.</q>
                   <q>Take that epithet to yourſelf,</q>
 ſaid Stamford,
@@ -793,7 +794,7 @@ replied Stamford:
 <q>If I harboured Miſs Beaufoy,</q>
 (ſaid Sir John, an<g ref="char:EOLhyphen"/>grily,)
 <q>I could not be ſurprized at your conduct; but ſince I have repeatedly aſſured you, that I have never to my knowledge ſeen her, I think your uncommon behavi<g ref="char:EOLhyphen"/>our requires an explanation; and
-<pb n="132" facs="tcp:031198_0130_0FEB50EA98B8B088"/>
+<pb n="132" facs="unknown:031198_0130_0FEB50EA98B8B088"/>
 I muſt, and do, inſiſt on your giv<g ref="char:EOLhyphen"/>ing me one before you leave this houſe.</q>
                   <q>Why not ſuffer the per<g ref="char:EOLhyphen"/>ſon whom you call Chattelher<g ref="char:EOLhyphen"/>hault to face me, and what you now call uncommon behaviour, will appear extraordinary no long<g ref="char:EOLhyphen"/>er.</q>
                   <q>There is not any neceſſity for your ſeeing her now,</q>
@@ -802,7 +803,7 @@ I muſt, and do, inſiſt on your giv<g ref="char:EOLhyphen"/>ing me one before 
 'Don't be ſo haſty, Henry' (inter<g ref="char:EOLhyphen"/>rupted his father,)
 <q>I ſee no impro<g ref="char:EOLhyphen"/>priety in the gentleman's being permitted to ſee Mademoiſelle Chattelherhault; and think the Chevalier cannot have any objec<g ref="char:EOLhyphen"/>tion, as it will end the conteſt, by convincing him of his error.</q>
                   <q>If you think, Sir John, it will con<g ref="char:EOLhyphen"/>vince Mr. Stamford of his error, my permiſſion is granted; but he has imbibed the idea ſo ſtrongly
-<pb n="133" facs="tcp:031198_0131_0FEB50EF120E6FC0"/>
+<pb n="133" facs="unknown:031198_0131_0FEB50EF120E6FC0"/>
 of my ſiſter's being his ward, that I very much queſtion if he does not ſwear more poſitively after ſee<g ref="char:EOLhyphen"/>ing her to what he has had the ef<g ref="char:EOLhyphen"/>frontery to affirm already.</q>
                   <q>Im<g ref="char:EOLhyphen"/>poſſible,</q>
 replied Sir John,
@@ -814,11 +815,11 @@ replied Sir Thomas,
 <q>this buſineſs will termi<g ref="char:EOLhyphen"/>nate much better than I expected.</q>
                   <q>Will you be kind enough to bring Mademoiſelle Chattelherhault, forward, Sir, and let this unplea<g ref="char:EOLhyphen"/>ſant affair be put an end to at once,</q>
 ſaid Sir John, as pulling the door open. In a moment I found myſelf in the ſame room with
-<pb n="134" facs="tcp:031198_0132_0FEB50F0A53705F8"/>
+<pb n="134" facs="unknown:031198_0132_0FEB50F0A53705F8"/>
 Stamford. Horror thrilled through every vein: inſtead of coming to<g ref="char:EOLhyphen"/>wards me, as I expected, he looked aghaſt, for, having ariſen and ad<g ref="char:EOLhyphen"/>vanced to meet us, at ſight of Sir Thomas he retreated a few paces and ſtood in the attitude of ſurprize. 'Stuart!' cried he, recovering him<g ref="char:EOLhyphen"/>ſelf, 'How came you here?'
 <q>Op<g ref="char:EOLhyphen"/>preſſed innocence demanded my attendance. Mr. Stamford, pain<g ref="char:EOLhyphen"/>ful remembrance tells me you were the companion of my youth; this is the firſt time of our meet<g ref="char:EOLhyphen"/>ing, ſince I embarked years back for India. I did not then expect the next time of ſeeing you to be obliged to renounce the friendſhip you ſo ſtrongly proffered me.</q>
                   <q>Whatever has been inſinuated to injure me in you good opinion is falſe as hell. It is a vile ſtory trumpt up to gloſs over their own conduct, that will not bear a ſcru<g ref="char:EOLhyphen"/>tiny. However, arguing longer is needleſs. Had you ſent me word
-<pb n="135" facs="tcp:031198_0133_0FEB50F4051EDE08"/>
+<pb n="135" facs="unknown:031198_0133_0FEB50F4051EDE08"/>
 your daughter had found a pro<g ref="char:EOLhyphen"/>tector in</q> —'My daughter!' echo<g ref="char:EOLhyphen"/>ed Sir Thomas, interrupting him. 'Now, Sir,' ſaid Oſborn to his father,
 <q>you find every ſyllable this fellow has advanced is falſe; and I hope you will not prevent my turning him out of doors.</q>
 'Hold,' ſaid Sir Thomas,
@@ -831,7 +832,7 @@ your daughter had found a pro<g ref="char:EOLhyphen"/>tector in</q> —'My daugh
 <q>Too ſure<g ref="char:EOLhyphen"/>ly there is,</q>
 ſaid Sir Thomas, (un<g ref="char:EOLhyphen"/>heeding my inſenſibility)—
 <q>ſay, quickly ſpeak. Where is her mo<g ref="char:EOLhyphen"/>ther? is ſhe ſtill my wife, or has ſhe forgot ſhe had a huſband? Fool; madman that I was, continued he, ſtamping his feet, ſhe was inno<g ref="char:EOLhyphen"/>cent of my accuſation, and I have
-<pb n="136" facs="tcp:031198_0134_0FEB50F70A7A9248"/>
+<pb n="136" facs="unknown:031198_0134_0FEB50F70A7A9248"/>
 been the murderer of an honeſt man. Where is ſhe? But why wiſh to add to the miſery I en<g ref="char:EOLhyphen"/>dure, from a knowledge of her abode? Her name is changed, no longer Stuart, but Beaufoy. No wonder my enquiries proved a<g ref="char:EOLhyphen"/>bortive. Tell me, yet I dread to hear, is this my own child, of was her mother married again before ſhe was born?</q>
                   <q>Her name is Beaufoy,</q>
 (replied Stamford)
@@ -840,7 +841,7 @@ been the murderer of an honeſt man. Where is ſhe? But why wiſh to add to the 
 (exclaimed he ſtriking his hand on his forehead)
 <q>tell me no more; ſhe is inconſtant and I re<g ref="char:EOLhyphen"/>nounce her. Yet let me know all, proofs will aſſiſt me in tearing her once-loved image from my fond mind. Vainly I flattered myſelf, when cheriſhing the thought my fortune would atone for the ill uſage ſhe had ſuſtained.</q>
 During the whole of this unconnected ad<g ref="char:EOLhyphen"/>dreſs to Stamford, lady and Miſs Oſborn were ſtriving to recover me,
-<pb n="137" facs="tcp:031198_0135_0FEB50FB77009CB8"/>
+<pb n="137" facs="unknown:031198_0135_0FEB50FB77009CB8"/>
 while Mademoiſelle D'Aubigny, eager to learn my doom, could at<g ref="char:EOLhyphen"/>tend to no one but the afflicted ba<g ref="char:EOLhyphen"/>ronet. The firſt ſentence I heard pronounced, after gaining my re<g ref="char:EOLhyphen"/>collection, was by her.
 <q>Suffer me to entreat, Sir</q>
 (ſaid ſhe)
@@ -851,7 +852,7 @@ while Mademoiſelle D'Aubigny, eager to learn my doom, could at<g ref="char:EOLh
                   <q>There was no other on the ſpot to whoſe care ſhe thought ſhe could entruſt her with ſo much ſafety.</q>
                   <q>Why place her under any other protection than her own?</q>
 'Oh Sir Thomas,' (re<g ref="char:EOLhyphen"/>plied Mademoiſelle D'Aubigny) looking mournfully at him—'What,' (cried he haſtily) 'Is ſhe dead?'
-<pb n="138" facs="tcp:031198_0136_0FEB50FD0DD7B768"/>
+<pb n="138" facs="unknown:031198_0136_0FEB50FD0DD7B768"/>
 'Oh God,' (finding ſhe forbore to anſwer)
 <q>my cruelty has too ſurely put an end to her wretched exiſt<g ref="char:EOLhyphen"/>ence.</q>
                   <q>When you are in a diſ<g ref="char:EOLhyphen"/>poſition to be further informed, if you take the trouble of calling on me,</q>
@@ -861,14 +862,14 @@ Oſborn would have ſtopt him, but was prevented by his father, while the Barone
 <q>My dear Chattel<g ref="char:EOLhyphen"/>herhault,</q>
 (ſaid Miſs Oſborn,)
 <q>ſo I muſt ſtill call you, what my<g ref="char:EOLhyphen"/>ſtery is this? Do for heaven's ſake, if the taſk will not be too painful, explain it. Will you believe any thing I ſhall hereafter advance, Miſs Oſborn, returned I, ſtriving to conceal my half averted face with a handkerchief, after diſco<g ref="char:EOLhyphen"/>very of my being an impoſtor?
-<pb n="139" facs="tcp:031198_0137_0FEB51006A3EAE98"/>
+<pb n="139" facs="unknown:031198_0137_0FEB51006A3EAE98"/>
 You have gained ſo much on my eſteem, that I could not ſuſpect your veracity, though conviction ſtared me in the face, and be aſ<g ref="char:EOLhyphen"/>ſured, whatever is in my power ſhall not be omitted, in ſtriving to make you happy.</q>
 Sir Thomas, ſtarting from his ſeat, came with haſty ſtrides towards me.
 <q>Why if you really are my daughter, did you ſubmit to exchange the anti<g ref="char:EOLhyphen"/>ent name of Stuart, for that of Beaufoy?</q>
                   <q>That queſtion, Sir, re<g ref="char:EOLhyphen"/>minds me I muſt not be too ſan<g ref="char:EOLhyphen"/>guine: Dare I flatter myſelf in the illuſive hope of your being my father, when your's is called Mo<g ref="char:EOLhyphen"/>rell?</q>
                   <q>It is not Morell, neither had I
 ſuffered that name ſhould take place of mine, but for an eſtate, which I fondly intended to make your mother's life eaſy with. Imagine not, that I have totally renounced it. No, the name of Stuart I pride myſelf more in than the empty title, annexed
-<pb n="140" facs="tcp:031198_0138_0FEB510372A88D38"/>
+<pb n="140" facs="unknown:031198_0138_0FEB510372A88D38"/>
 to Thomas Morell. My mother was a Douglaſs, and I cannot for<g ref="char:EOLhyphen"/>get my origin on either ſide, aroſe from kings. The Douglaſſes and Stuarts are renowned the world all over, for their honour, and ance<g ref="char:EOLhyphen"/>ſtry. The families are of the firſt in Scotland. Your mother de<g ref="char:EOLhyphen"/>ſcended from the Murrys and Campbells, was related to me be<g ref="char:EOLhyphen"/>fore our marriage; yet after it, re<g ref="char:EOLhyphen"/>linquiſhed the tie of conſanguini<g ref="char:EOLhyphen"/>ty, even in the names, with her family, and degraded both herſelf and me by changing that of Stu<g ref="char:EOLhyphen"/>art, for Beaufoy.</q>
 I am obliged to reſign the pen at preſent, Ma<g ref="char:EOLhyphen"/>dam, but will take the firſt oppor<g ref="char:EOLhyphen"/>tunity of reſuming it. I have the honour of ſubſcribing myſelf your obliged, no longer Beaufoy, but</p>
                <closer>
@@ -876,7 +877,7 @@ I am obliged to reſign the pen at preſent, Ma<g ref="char:EOLhyphen"/>dam, but
                </closer>
             </div>
             <div type="letter">
-               <pb n="141" facs="tcp:031198_0139_0FEB5107E95E2DF0"/>
+               <pb n="141" facs="unknown:031198_0139_0FEB5107E95E2DF0"/>
                <head>To Madame Paſſerat.</head>
                <opener>
                   <dateline>
@@ -884,23 +885,23 @@ I am obliged to reſign the pen at preſent, Ma<g ref="char:EOLhyphen"/>dam, but
                   </dateline>
                </opener>
                <p>BEFORE I conclude my narra<g ref="char:EOLhyphen"/>tive, Madam, I cannot refrain from telling you, that however ridicu<g ref="char:EOLhyphen"/>lous Sir Thomas's pride of family may appear to thoſe who have not to boaſt of their alliance with one, I muſt own, I have my life through inherited, in ſome degree, his diſ<g ref="char:EOLhyphen"/>poſition. I have felt it eminently when a child, if chaſtifed by thoſe I conceived my inferiors, though hardly knowing what the pride of family-anceſtry meant, and my ſta<g ref="char:EOLhyphen"/>tion in life degraded at the ſame time. As I increaſed in years, my mind became more enlightened. I conſidered every perſon endued with merit my more than equal; but if treated with impunity, by thoſe who were my ſuperiors in point of fortune alone, my ſpirit
-<pb n="142" facs="tcp:031198_0140_0FEB510980DE7150"/>
+<pb n="142" facs="unknown:031198_0140_0FEB510980DE7150"/>
 could not brook it, neither could I forbear reflecting at the moment, that the great grandfathers of thoſe very people were moſt likely beg<g ref="char:EOLhyphen"/>ging their bread, while mine were moving in all the ſplendour of afflu<g ref="char:EOLhyphen"/>ence. The painful idea has wounded my feelings to an exceſs—when a ray of conſolation darting on my mind has diſpelled the gloom and raiſed my ſoul ſuperior to low ma<g ref="char:EOLhyphen"/>lice. I have triumphed in an inward ſelf-aſſurance, that time would raiſe me infinitely above their level; the time is now arrived. The claims of ſociety demand my civility to<g ref="char:EOLhyphen"/>wards thoſe people; but friend<g ref="char:EOLhyphen"/>ſhip's ſacred tie diſowns them all. You will readily excuſe the hauteur that appears to guide the preced<g ref="char:EOLhyphen"/>ing lines, they are written feeling<g ref="char:EOLhyphen"/>ly; I have been repeatedly ill treat<g ref="char:EOLhyphen"/>ed, by the very people who profeſt moſt friendſhip for me; yet if I know my own heart, it will never permit the actuation (if I may be
-<pb n="143" facs="tcp:031198_0141_0FEB510B4CA66740"/>
+<pb n="143" facs="unknown:031198_0141_0FEB510B4CA66740"/>
 allowed the word) of ingratitude towards any that have done me an act of kindneſs, though only often<g ref="char:EOLhyphen"/>tatiouſly meant to evince it was in their power to confer, rather than prompted by innate goodneſs of heart, to be capable of doing a ge<g ref="char:EOLhyphen"/>nerous action. I have ſurely ſaid enough, Madam, to tire you with obſervation; now proceed to dia<g ref="char:EOLhyphen"/>logue. In anſwer to Sir Thomas's reflection on my mother for chang<g ref="char:EOLhyphen"/>ing her name, I told him,
 <q>that de<g ref="char:EOLhyphen"/>ſerted by her friends, ſhe had on<g ref="char:EOLhyphen"/>ly a trifling pittance to ſupport herſelf, and conſidered a very ſhort time might render her a mo<g ref="char:EOLhyphen"/>ther, former rank could not be ſupported; ſhe therefore deter<g ref="char:EOLhyphen"/>mined that the family of Stuart ſhould not be wittingly inſulted by an unfeeling world in her; and renounced the name. Beau<g ref="char:EOLhyphen"/>foy, ſhe ſaid, was anſwerable to the ſtate of her own mind, for well ſhe knew, Sir, continued I, death
-<pb n="144" facs="tcp:031198_0142_0FEB51103A8AA608"/>
+<pb n="144" facs="unknown:031198_0142_0FEB51103A8AA608"/>
 would not be permitted to cloſe your eyes before you were tho<g ref="char:EOLhyphen"/>roughly convinced of her inno<g ref="char:EOLhyphen"/>cence.</q>
                   <q>She was purity itſelf, cri<g ref="char:EOLhyphen"/>ed he, and I a villain. I bartered my former peace of mind for rage and infamy.</q>
                   <q>Do not ſay ſo, Sir, interrupted I, my mother ever took the blame on herſelf; her own conduct ſhe ſaid, had been the occaſion of all her miſery, and ſhe muſt endure misfortune with<g ref="char:EOLhyphen"/>out a murmur.</q>
                   <q>If you wiſh I ſhould preſerve my reaſon, tell me not of her ſuperior excellence, the knowledge of her patient ſuf<g ref="char:EOLhyphen"/>ferance will drive me deſperate. Oh heavenly God! what cruelty is there in human nature that I have not been capable of! Ruined the fair fame of a virtuous wife in the world's eye, and pierced my ſword through the heart of a man I ſuppoſed her paramour Oh Je<g ref="char:EOLhyphen"/>ſus! the laſt words he pronounc<g ref="char:EOLhyphen"/>ed as falling, ſtill vibrate in my
-<pb n="145" facs="tcp:031198_0143_0FEB5114ABF92FD8"/>
+<pb n="145" facs="unknown:031198_0143_0FEB5114ABF92FD8"/>
 ears, "Stuart, your wife is wrong<g ref="char:EOLhyphen"/>ed, ſhe is virtuous." He would have ſaid more, but death ſealed his lips. Reaſon forſook my breaſt a whole twelve-month; at length returned; yes, cruelly returned, with double force, to awaken me to an exquiſite ſenſe of complicated miſery. So ſhe is really dead? Beſt of women, ejaculated he, your life I rendered wretched; to your memory I will be juſt. Such meek forbearance to vindicate your conduct demands the tribute. It is the only one I now can pay. Your fidelity ſhall no longer be ſuſpected, nor your child remain an alien to our family.</q>
 He caught me in his arms; I wept, indeed there was not a dry eye in the room, ex<g ref="char:EOLhyphen"/>cept his own.
 <q>Why do you weep, ſaid he?</q>
 looking wildly at me. <q>Is
 it becauſe you are conſigned to the care of him who treated your mother within humanity? Put con<g ref="char:EOLhyphen"/>fidence in my honour, and for
-<pb n="146" facs="tcp:031198_0144_0FEB511641985728"/>
+<pb n="146" facs="unknown:031198_0144_0FEB511641985728"/>
 the ſake of that ſuffering innocent I will treat you gently.</q>
 His laſt ſpeech, delivered mourn fully, af<g ref="char:EOLhyphen"/>fected me, if poſſible, more than the former ones. I could make no reply: taking my ſilence for a mark of diſguſt, he cried, puſhing me from him.
 <q>Go, I find you hate me, you may from former beha<g ref="char:EOLhyphen"/>viour have ſufficient cauſe for it, but I will not tamely ſubmit to receiving contempt from you; though conſcious of having me<g ref="char:EOLhyphen"/>rited it.</q>
@@ -909,19 +910,19 @@ His laſt ſpeech, delivered mourn fully, af<g ref="char:EOLhyphen"/>fected me, 
                   <q>I hardly know what this myſtery implies,</q>
 (ſaid Sir John)
 <q>or how it will prove on inveſtigation; but think, if left alone a few minutes, your thoughts will be more collected, and your<g ref="char:EOLhyphen"/>ſelf better able to make, or anſwer
-<pb n="147" facs="tcp:031198_0145_0FEB5119A1AE4C98"/>
+<pb n="147" facs="unknown:031198_0145_0FEB5119A1AE4C98"/>
 any enquiry.</q>
 'Leave me, quickly' replied my father,
 <q>the ſight of my remorſe for offences paſt muſt be diſtreſſing to you all; beſides I feel I am unfit for any company but that of my wretched ſelf. I will ſtrive to calm my mind and join you pre<g ref="char:EOLhyphen"/>ſently.</q>
 Oſborn and the Chevalier ſupported me down ſtairs, where I acquainted the family with the occa<g ref="char:EOLhyphen"/>ſion of my mother's unfortunate loſs of happineſs. Luckily I am poſſeſt of a letter which my father ſent her the day of taking his departure: hap<g ref="char:EOLhyphen"/>pening to be looking over a ſmall caſket of her's the preceding even<g ref="char:EOLhyphen"/>ing, that I had not till then opened, I found it tied with a piece of black ſilk twiſt, to which was ſuſpended a ſmall parcel; on opening it, I found a pair of diamond ear-rings. On the paper was written:
 <q>Theſe were the laſt ornaments Mr. Stuart purchaſed for me; all my other appendages to dreſs I have long ſince diſpoſed of; but determined
-<pb n="148" facs="tcp:031198_0146_0FEB511CA5F85258"/>
+<pb n="148" facs="unknown:031198_0146_0FEB511CA5F85258"/>
 to preſerve theſe, (unleſs my child was deſtitute of the neceſſaries of life) as reliques of his affection for an ungrateful woman.</q>
 I gave Lady Oſborn the letter to peruſe, and through it have confirmed my<g ref="char:EOLhyphen"/>ſelf the daughter of Sir Thomas. Miſs Oſborn was in raptures with her brother, for aſſuming ſo proper a ſpirit at Dover. Sir John ſaid,
 <q>As it had turned out, there was no harm done; but he hoped Hen<g ref="char:EOLhyphen"/>ry would be more careful in fu<g ref="char:EOLhyphen"/>ture. I might have borne the moſt infamous character for any thing he knew to the contrary; he had only my own word for what I had advanced; and it was two to one, if every ſyllable had not prov<g ref="char:EOLhyphen"/>ed falſe.</q>
 'Well, well,' ſaid Miſs Oſborn, in a lively tone,
 <q>you find it has not proved falſe, my dear Sir. I think inſtead of rebuking Henry for what is paſt, you ought to thank your ſtars on your knees, night and morning, for beſtowing
-<pb n="149" facs="tcp:031198_0147_0FEB511FAE59E7E0"/>
+<pb n="149" facs="unknown:031198_0147_0FEB511FAE59E7E0"/>
 ſuch a kind hearted fellow of a ſon on you; for my own part, I ſhall certainly think the better of him all my life to come. Honeſtly ſpeaking, Sir John,</q> continued ſhe drily.
 <q>Do you really think you deſerve him?</q>
 Immediately al<g ref="char:EOLhyphen"/>tering her tone to a fearful one,
@@ -933,7 +934,7 @@ Immediately al<g ref="char:EOLhyphen"/>tering her tone to a fearful one,
 <q>However I have ſpoilt you myſelf by too much encouragement, and cannot blame any other perſon for it.</q>
 'Ah, Sir,' (in a tone of raillery)
 <q>too late you find the fatal effects of not checking young ſaucebox in her infancy. But what do you ſay now, to beſtowing me on ſome honeſt John Trot kind of a man, who will give me all my own way,
-<pb n="150" facs="tcp:031198_0148_0FEB5122B3FD3828"/>
+<pb n="150" facs="unknown:031198_0148_0FEB5122B3FD3828"/>
 and taking in return this little de<g ref="char:EOLhyphen"/>mure looking damſel, for a wife to thy ſon Henry? Do you think now an alteration in the family of this kind would be taken amiſs by either one of us?</q>
                   <q>My dear Miſs Oſborn,</q>
 (ſaid I, in a faulter<g ref="char:EOLhyphen"/>ing tone and bluſhing)
@@ -943,7 +944,7 @@ and taking in return this little de<g ref="char:EOLhyphen"/>mure looking damſel
 <q>Do let me alone, I never invade your province, neither ſhall you mine.</q>
 'Very well,' ſaid I (bluſh<g ref="char:EOLhyphen"/>ing ſtill more) 'have it all your own way.' 'Hark ye, my dear,' (in<g ref="char:EOLhyphen"/>clining her head towards mine, and ſpreading a fan before our faces)
 <q>truſt to the honour of Matilda Oſ<g ref="char:EOLhyphen"/>born, it cannot betray a confi<g ref="char:EOLhyphen"/>dence placed in it; but if once ſhe finds you mean to deceive her, ſhe gives no quarter. Ah thoſe
-<pb n="151" facs="tcp:031198_0149_0FEB5125E9E3F408"/>
+<pb n="151" facs="unknown:031198_0149_0FEB5125E9E3F408"/>
 pretty bluſhes ſpeak for them<g ref="char:EOLhyphen"/>ſelves. They ſay Henry has con<g ref="char:EOLhyphen"/>quered one heart, and I will be hanged if Miſs Stuart has not been guilty of the ſame pretty theft with another. Nay, no declaration,</q>
 (I was going to ſpeak)
 <q>unleſs you are going to confeſs; if you will do that I promiſe to fight your cauſe ever after.</q>
@@ -952,9 +953,9 @@ My father coming in, put an end to the converſation and relieved my embarraſſ
                   <hi>Mademoiſelle D'Aubigny writes.</hi>
                </p>
                <p>Nay it does not ſignify, conten<g ref="char:EOLhyphen"/>tion will avail you nothing: this
-<pb n="152" facs="tcp:031198_0150_0FEB5127AB550C50"/>
+<pb n="152" facs="unknown:031198_0150_0FEB5127AB550C50"/>
 letter I certainly muſt finiſh by the way of informing my aunt of what you would bluſh to put pen to paper about. Miſs Oſborns hint has been improved, my dear Madam, and your young correſpondent will re<g ref="char:EOLhyphen"/>tain her new name but a very ſhort time. To ſpare her confuſion, I took on myſelf the talk of informing Sir Thomas, that Mr. Oſborn was the only man his daughter could ever entertain a regard for. He generouſly aſſured me, he thought the one who ſo nobly reſcued her from infamy, the only perſon wor<g ref="char:EOLhyphen"/>thy to poſſeſs her; and the gen<g ref="char:EOLhyphen"/>tlemen of the long robe are as buſy in preparing the marriage ſettle<g ref="char:EOLhyphen"/>ments as the expectation of good ſees can make them. I have given a promiſe to remain in England till the ſpring, then my ſuite will be honoured on returning to the con<g ref="char:EOLhyphen"/>tinent, by Sir Thomas Stuart Mo<g ref="char:EOLhyphen"/>rell, his happy daughter and her huſband, Sir John, Lady, and Miſs
-<pb n="153" facs="tcp:031198_0151_0FEB512D9308E108"/>
+<pb n="153" facs="unknown:031198_0151_0FEB512D9308E108"/>
 Oſborn, with the Chevalier; more properly, according to the national aſſembly's diſpoſition of rank, Mon<g ref="char:EOLhyphen"/>ſieur Chattelherhault. I am to be obliged in their company till the dulleſt ſeaſon of the year is rapidly approaching to aſſiſt me in regret<g ref="char:EOLhyphen"/>ting the loſs of ſuch amiable friends. But they tell me I muſt not antici<g ref="char:EOLhyphen"/>pate evils, while at a diſtance, ſo to avoid that, and prepare to attend a rehearſal, at the opera houſe, I ſubſcribe myſelf, dear Madam,</p>
                <closer>
                   <signed>Your truly affectionate niece, <hi>MARIANNE D'AUBIGNY.</hi>
@@ -965,7 +966,7 @@ Oſborn, with the Chevalier; more properly, according to the national aſſembly
                </postscript>
             </div>
             <div type="letter">
-               <pb n="154" facs="tcp:031198_0152_0FEB512F26209AD8"/>
+               <pb n="154" facs="unknown:031198_0152_0FEB512F26209AD8"/>
                <head>To the Honourable Miſs Townſend.</head>
                <opener>
                   <dateline>
@@ -973,24 +974,24 @@ Oſborn, with the Chevalier; more properly, according to the national aſſembly
                   </dateline>
                </opener>
                <p>AFTER all this ado, would you believe, Mademoiſelle Chattelher<g ref="char:EOLhyphen"/>hault has proved the daughter and heireſs of Sir Thomas Stuart Morell, inſtead of ſiſter to the Chevalier; the man might well be ſo polite to the little urchin if he had never ſeen her before. I thought he overacted the part of brother, and now the won<g ref="char:EOLhyphen"/>derment is out. That ſly creature, Henry, too; well, I am not de<g ref="char:EOLhyphen"/>ceived in regard to his head. I ever ſuſpected that to be a plotting one: but his late conduct has convinced us all he inherits a noble heart. 'The deuce take this girl,' I know you'll ſay, 'ſhe begins where every one beſides herſelf would leave off.' It is a happy knack I have acquired, and you muſt content yourſelf with the ſtyle, or forſwear reading any
-<pb n="155" facs="tcp:031198_0153_0FEB5130BA078F70"/>
+<pb n="155" facs="unknown:031198_0153_0FEB5130BA078F70"/>
 more of my penmanſhip: to vex you ſtill more by the way of haſt<g ref="char:EOLhyphen"/>ening your return to town, I have determined to keep you in ſuſpence for particulars, till you think pro<g ref="char:EOLhyphen"/>per in perſon to aſk them; though, to ſtretch your curioſity, which I know has been long ſince awaken<g ref="char:EOLhyphen"/>ed, I'll tell you; Henry and ſhe are to be married. Mademoiſelle D' Aubigny and myſelf, are choſen bride-maids; and if Miſs Town<g ref="char:EOLhyphen"/>ſend arrives in time, I promiſe you ſhe ſhall be invited to the wedding. What is to be done now? A meſ<g ref="char:EOLhyphen"/>ſage from Sir John; I muſt attend him immediately. Appleton tells me, a ſmart young gentleman has been cloſetted with him this half hour: my heart flutters. Do not you think it muſt be ſomething very extraordinary to occaſion a palpitation there; I attend the ſum<g ref="char:EOLhyphen"/>mons; you ſhall know the event the moment the interview is over.</p>
                <p>
-                  <pb n="156" facs="tcp:031198_0154_0FEB5133CA4F09C0"/>
+                  <pb n="156" facs="unknown:031198_0154_0FEB5133CA4F09C0"/>
                   <hi>In continüation.</hi>
                </p>
                <p>Surprize, and ecſtacy united, have nearly deprived me of the little rea<g ref="char:EOLhyphen"/>ſon I poſſeſſed. Congratulate me, Sophia, I am now at liberty to diſ<g ref="char:EOLhyphen"/>cloſe the ſecret of my heart, and in<g ref="char:EOLhyphen"/>vite you to partake of the happineſs it occaſions. You muſt be expedi<g ref="char:EOLhyphen"/>tious to a degree in haſtening here, or poſitively I muſt look out for another bride-maid in your ſtead. Well; but the ſecret, lord I had almoſt forgotten that, though my heart, my head, my thoughts, all, all, are full of the ſubject. You certainly recollect young Hamilton, with whom Henry was at Oxford; two vacations he ſpent with us in Hampſhire and three in town. Now comes the confeſſion; ſhall I call him the wretch? Oh, yes, the plea<g ref="char:EOLhyphen"/>ſing wretch (a very pretty epithet for a favoured lover) made captive, the wandering heart of Matilda Oſborn, in the moſt aſſuming, nay,
-<pb n="157" facs="tcp:031198_0155_0FEB5139B02758C8"/>
+<pb n="157" facs="unknown:031198_0155_0FEB5139B02758C8"/>
 inſolent manner you ever heard of. You will ſcarcely credit, that ſo flighty a toad as Sir John frequently calls me, could ever be won by the man who took pains to convince her he was not blind to her faults. Ah, you may ſtare! It is abſolutely true. I have been flattered by one, treated with ſubmiſſive reſpect by another, while a third more impe<g ref="char:EOLhyphen"/>tuous than either of the others, has dared to be jealous of the very peo<g ref="char:EOLhyphen"/>ple I deſpiſed; but not one, except Hamilton, preſumed to ſay that I inherited the foibles of the whole of my ſex. He profeſſed himſelf my friend; ſtrove to correct the errors of my judgment, while he made a point of ridiculing my levities with good humour, till the criticiſm en<g ref="char:EOLhyphen"/>gaged my moſt ſerious attention, and the author of it became dearer to my heart than a mind at uniſon with itſelf could admit of. Love, he had never ſo much as ſpoken of to me; yet the attention he paid me,
-<pb n="158" facs="tcp:031198_0156_0FEB513B473B5180"/>
+<pb n="158" facs="unknown:031198_0156_0FEB513B473B5180"/>
 was remarked by all my acquaint<g ref="char:EOLhyphen"/>ance. At this period his uncle died, and he became the Marquis of D— his viſits from being fre<g ref="char:EOLhyphen"/>quent, were withdrawn on a ſud<g ref="char:EOLhyphen"/>den; if by chance we met, a cool<g ref="char:EOLhyphen"/>neſs that pierced my ſoul was ſubſti<g ref="char:EOLhyphen"/>tuted for the warmth of friendſhip I had been accuſtomed to experi<g ref="char:EOLhyphen"/>ence. Hurt—beyond deſcription hurt, at a change of conduct I had not wittingly given any occaſion for, I determined his image ſhould be eraſed from my mind though it coſt me my life accompliſhing. In this ſtate of mind I continued when Grenvill's firſt viſit was permitted; he was ſubmiſſive to a degree. I ſtrove to regard him in the light of one who was deſtined for my huſ<g ref="char:EOLhyphen"/>band. It availed me little, and him ſtill leſs: my heart would not ſuf<g ref="char:EOLhyphen"/>fer the leſſon of affection to take root in my mind, for a character ſo oppoſite to that it had acknow<g ref="char:EOLhyphen"/>ledged for it's lord, and when he
-<pb n="169" facs="tcp:031198_0157_0FEB513E481EEB20"/>
+<pb n="169" facs="unknown:031198_0157_0FEB513E481EEB20"/>
 preſſed for a deciſive anſwer, I was obliged myſelf to aſſure him, I ne<g ref="char:EOLhyphen"/>ver could eſteem him otherwiſe than a friend. He expoſtulated; but my heart was now too firmly at<g ref="char:EOLhyphen"/>tached to it's firſt choice to ſuffer whatever he could urge to prevail. His diſmiſſion was the conſequence; ſince that, how often has my pride been piqued and love wounded, by the Marquis's treatment of me at the houſes of different friends where we have met. I have witneſſed his polite attention to every other fe<g ref="char:EOLhyphen"/>male in company, while I alone was neglected; or received the diſ<g ref="char:EOLhyphen"/>tant civility due to an utter ſtranger. Inſtead of ſuffering a depreſſion of ſpirits to become viſible at thoſe times, as a ſerious ſoul like your<g ref="char:EOLhyphen"/>ſelf would have done, I have con<g ref="char:EOLhyphen"/>quered my feelings in ſome degree, and to ſupport a ſhew of equal in<g ref="char:EOLhyphen"/>difference have coquetted with ev<g ref="char:EOLhyphen"/>ery other man in company; but this gaiete was forced, and generally
-<pb n="160" facs="tcp:031198_0158_0FEB51418119C0E8"/>
+<pb n="160" facs="unknown:031198_0158_0FEB51418119C0E8"/>
 forſook me the inſtant I had quitted the houſe which contained the Mar<g ref="char:EOLhyphen"/>quis; then I have given a looſe to my ſorrows; and the inſtant I gain<g ref="char:EOLhyphen"/>ed home retired to my apartment to indulge the horrors of deſpair. How the dence I have been able to plod on in the plaintive ſtrain of a hope<g ref="char:EOLhyphen"/>leſs ſoul I cannot imagine, after the object of my every wiſh has not on<g ref="char:EOLhyphen"/>ly made a tendre of his title; but what is ſtill dearer his heart. The reaſon he gives for the affected in<g ref="char:EOLhyphen"/>difference I pen with pleaſure, be<g ref="char:EOLhyphen"/>cauſe it is an aſſurance that his heart was incapable of change, as my own was of being alienated. His mother wiſhed him to marry la<g ref="char:EOLhyphen"/>dy Sarah Gibbons; to oblige her, he owns he did his utmoſt in ſtriving to eſtrange his affections. It is well for me though the trial failed of ef<g ref="char:EOLhyphen"/>fect; and the behaviour I lamented in ſecret was merely an effort to comply with her wiſh. Hang lady Sarah, I was going to ſay, ſhe has
-<pb n="161" facs="tcp:031198_0159_0FEB51448ABF05B8"/>
+<pb n="161" facs="unknown:031198_0159_0FEB51448ABF05B8"/>
 occaſioned me the heart ake more than once; however I have no great occaſion at preſent to repine, the cauſe is removed, and I made hap<g ref="char:EOLhyphen"/>py in the effect; ſo Mr. Care, my troubles having ceaſed, you may trudge, and I ſincerely conjure you not to think of becoming a compa<g ref="char:EOLhyphen"/>nion of mine a ſecond time. After all, Sophia, I believe this ſaid court<g ref="char:EOLhyphen"/>ſhip would have proved but a ſtu<g ref="char:EOLhyphen"/>pid piece of buſineſs, had not the old gentleman enveloped the proſ<g ref="char:EOLhyphen"/>pect of happineſs a ſhort time. Mercy on us, here am I, delibe<g ref="char:EOLhyphen"/>rately writing a long letter to you, while hurry ſcurry, and confuſion, demands my attendance in a thou<g ref="char:EOLhyphen"/>ſand different places. I have a headpiece, and ſo has a gooſe. I had forgot the poor man has been waiting this half hour below, in eager expectation of my approach. Nor ſhould I have recollected it now, had not the impatient wretch ſent up a meſſage to haſten me
-<pb n="162" facs="tcp:031198_0160_0FEAF6EB384D3928"/>
+<pb n="162" facs="unknown:031198_0160_0FEAF6EB384D3928"/>
 down. Adieu; fail not in per<g ref="char:EOLhyphen"/>forming the promiſe you have fre<g ref="char:EOLhyphen"/>quently made to,</p>
                <closer>
                   <signed>MATILDA OSBORN.</signed>
@@ -1004,20 +1005,20 @@ down. Adieu; fail not in per<g ref="char:EOLhyphen"/>forming the promiſe you ha
                   </dateline>
                </opener>
                <p>YOU have aſſured me I may de<g ref="char:EOLhyphen"/>pend on your being in town before Saturday, yet a love of ſcribbling is ſo inherent in my nature, that I could rather forſwear eating, when hungry, than writing, when tempt<g ref="char:EOLhyphen"/>ed by the circulation of news. That old figure, Mrs. Rawlins, has married the man ſhe exultingly de<g ref="char:EOLhyphen"/>clared was without a fault. He proving a fortune hunter has ſhrewd<g ref="char:EOLhyphen"/>ly marched off with the whole of
-<pb n="163" facs="tcp:031198_0161_0FEB514AE1C79540"/>
+<pb n="163" facs="unknown:031198_0161_0FEB514AE1C79540"/>
 her fortune, and left his ſturdy wi<g ref="char:EOLhyphen"/>dow to bemoan her hapleſs fate, and ponder over the dreadful cer<g ref="char:EOLhyphen"/>tainty of poſſeſſion being nine points of the law. Her darling Jacky a<g ref="char:EOLhyphen"/>buſes her for not knowing when ſhe was well off, and ſwears ſhe ſhall never get a farthing from him.
 <q>As ſhe has made her bed ſo let her lie on it, by the way of giving eaſe to her old bones,</q>
 ſaid he, when Mrs. Criſp was ſtriving one day to prevail on him to allow her a trifle. Fortunately a man whoſe cir<g ref="char:EOLhyphen"/>cumſtances are eaſy fell in love with and married Nan, as the vulgar ſoul uſed to call her daughter, and the generous ſpirited woman has pre<g ref="char:EOLhyphen"/>vailed on him to maintain her mo<g ref="char:EOLhyphen"/>ther, that ſhe may be kept from ſtarving. To uſe Derby's term. Maſter Jacky is nearly done over, from <hi>a ſmack at high life,</hi> as he po<g ref="char:EOLhyphen"/>litely calls it: the inhuman brute loſt thirty thouſand pounds laſt week, and twenty this; moſt likely the
-<pb n="164" facs="tcp:031198_0162_0FEB514CB324A2D8"/>
+<pb n="164" facs="unknown:031198_0162_0FEB514CB324A2D8"/>
 next enſures him a compleat beg<g ref="char:EOLhyphen"/>gar; thus ends the oſtentatious grandeur of <hi>low life</hi> refined. Hen<g ref="char:EOLhyphen"/>ry has written the memoirs of his charming little Stuart, for your pe<g ref="char:EOLhyphen"/>ruſal; on looking it over, I ſee he has forgot to mention where Sir Thomas met with the ſuppoſed ſe<g ref="char:EOLhyphen"/>ducer of his wife's honour. He had been ſettled in the Eaſt twelve years, when a gentleman who had profeſ<g ref="char:EOLhyphen"/>ſed a friendſhip for him, from the firſt of his arrival there, died, leav<g ref="char:EOLhyphen"/>ing his eſtate and title to Mr. Stuart, with the proviſo that the name of Morell ſhould take place of his own: a very ſhort time after, hear<g ref="char:EOLhyphen"/>ing that the captain was in India, he ſent him a challenge, the fatal conſequence Henry's minutes in<g ref="char:EOLhyphen"/>form you of; therefore I need not dwell on the diſtreſſing ſubject. What tireſome creatures are the men after you have once given them cauſe to ſuppoſe they have the leaſt right over you. The Marquis has
-<pb n="165" facs="tcp:031198_0163_0FEB515138A05298"/>
+<pb n="165" facs="unknown:031198_0163_0FEB515138A05298"/>
 ſent up his compliments; hopes I am not indiſpoſed; is rather <hi>fearful,</hi> as I have been ſo long alone. I wonder if the man means this as a hint to remind me I am likely to find a ruler in my lord; however next Thurſday will witneſs two marriages; little Stuart would not ſuffer me to be her bridemaid when my own wedding was in agitation ſhe ſaid; ſo a couſin of hers is ſub<g ref="char:EOLhyphen"/>ſtituted in my ſtead. I have not time to add more, therefore for the laſt time I ſign myſelf,</p>
                <closer>
                   <signed>MATILDA OSBORN.</signed>
                </closer>
             </div>
             <div type="letter">
-               <pb n="166" facs="tcp:031198_0164_0FEB5155A8ECCA98"/>
+               <pb n="166" facs="unknown:031198_0164_0FEB5155A8ECCA98"/>
                <head>To Madame Paſſerat.</head>
                <opener>
                   <dateline>
@@ -1026,7 +1027,7 @@ next enſures him a compleat beg<g ref="char:EOLhyphen"/>gar; thus ends the oſt
                   <salute>HONOURED MADAM,</salute>
                </opener>
                <p>YESTERDAY conſigned the a<g ref="char:EOLhyphen"/>miable D'Arcy to the future pro<g ref="char:EOLhyphen"/>tection of her dear Oſborn. His ſiſ<g ref="char:EOLhyphen"/>ter, who next to our deſerving friend prejudices every one in her favour, gave her hand at the ſame time to the Marquis of D—; he will make an addition to the party you may expect to ſee on my return. I retain in memory the promiſe I have ſo frequently made of not marrying any perſon till you had ſeen and approved my choice, otherwiſe I believe the two brides would have prevailed on me to liſ<g ref="char:EOLhyphen"/>ten to Chattelherhault's ſolications of adding to the group of married folks; however, they have obliged me to promiſe I will comply with
-<pb n="167" facs="tcp:031198_0165_0FEB5157412555C0"/>
+<pb n="167" facs="unknown:031198_0165_0FEB5157412555C0"/>
 his wiſh, if you make no objection; ſo the days of my celibacy are en<g ref="char:EOLhyphen"/>tirely ſubmitted to your determi<g ref="char:EOLhyphen"/>nation. I cannot lengthen this let<g ref="char:EOLhyphen"/>ter, having promiſed Sir Thomas, and the Chevalier, to take the air with them this morning; and I ſee the groom in the court-yard with the horſes.</p>
                <closer>
                   <signed>I remain, dear Madam,
